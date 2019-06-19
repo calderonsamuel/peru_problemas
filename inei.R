@@ -99,25 +99,10 @@ parte2 <- problemas %>%
 
 data <- bind_rows(parte1, parte2) %>%
       mutate(problema = str_remove(problema, "^la "),
-             problema = str_to_sentence(problema))
+             problema = str_to_sentence(problema),
+             fecha = paste0(as.character(month), " ", year),
+             fecha = as_factor(fecha),
+             str_perc = as.character(perc))
 
-rm(datos, datos2, parte1, parte2, problemas)      
-
-# 
-# data <- data %>%
-#       mutate(problema = str_remove(problema, "^la "),
-#              problema = str_to_sentence(problema))
-
-# unique(data$problema) %>%
-#       str_remove("^la ")%>% 
-#       unique() %>%
-#       str_to_sentence()
-
-##Este será el grafico
-data %>%
-      filter(year == 2016) %>%
-      ggplot(aes(x= factor(problema), y = desc(perc), fill = factor(problema)))+
-      geom_bar(stat = "identity") +
-      facet_wrap(~month)+
-      coord_flip()+
-      theme(legend.position = "none")
+write_csv(data, "datalista.csv")
+#rm(datos, datos2, parte1, parte2, problemas)      

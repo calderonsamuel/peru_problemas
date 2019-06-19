@@ -1,0 +1,871 @@
+year,month,problema,perc,r,fecha,str_perc
+2004,Jul,Falta de empleo,55.1,1,Jul 2004,55.1
+2004,Jul,Pobreza,43,2,Jul 2004,43
+2004,Jul,Corrupción,16.3,3,Jul 2004,16.3
+2004,Jul,Falta de apoyo a la agricultura,15.4,4,Jul 2004,15.4
+2004,Jul,Falta de credibilidad del gobierno,14.8,5,Jul 2004,14.8
+2004,Aug,Falta de empleo,55.1,1,Aug 2004,55.1
+2004,Aug,Pobreza,48,2,Aug 2004,48
+2004,Aug,Corrupción,16.5,3,Aug 2004,16.5
+2004,Aug,Falta de apoyo a la agricultura,14.8,4,Aug 2004,14.8
+2004,Aug,Falta de credibilidad del gobierno,11,5,Aug 2004,11
+2004,Sep,Falta de empleo,53.7,1,Sep 2004,53.7
+2004,Sep,Pobreza,46,2,Sep 2004,46
+2004,Sep,Falta de apoyo a la agricultura,17.9,3,Sep 2004,17.9
+2004,Sep,Corrupción,14,4,Sep 2004,14
+2004,Sep,Falta de credibilidad del gobierno,11.5,5,Sep 2004,11.5
+2004,Oct,Falta de empleo,49.7,1,Oct 2004,49.7
+2004,Oct,Pobreza,42,2,Oct 2004,42
+2004,Oct,Falta de apoyo a la agricultura,16.7,3,Oct 2004,16.7
+2004,Oct,Corrupción,15.1,4,Oct 2004,15.1
+2004,Oct,Falta de credibilidad del gobierno,13.2,5,Oct 2004,13.2
+2004,Nov,Falta de empleo,50.4,1,Nov 2004,50.4
+2004,Nov,Pobreza,41.5,2,Nov 2004,41.5
+2004,Nov,Corrupción,16.1,3,Nov 2004,16.1
+2004,Nov,Falta de apoyo a la agricultura,14.4,4,Nov 2004,14.4
+2004,Nov,Bajos sueldos,11,5,Nov 2004,11
+2004,Dec,Falta de empleo,48.2,1,Dec 2004,48.2
+2004,Dec,Pobreza,44.7,2,Dec 2004,44.7
+2004,Dec,Corrupción,19.3,3,Dec 2004,19.3
+2004,Dec,Falta de apoyo a la agricultura,18.5,4,Dec 2004,18.5
+2004,Dec,Bajos sueldos,11.2,5,Dec 2004,11.2
+2005,Jan,Falta de empleo,52,1,Jan 2005,52
+2005,Jan,Pobreza,42.4,2,Jan 2005,42.4
+2005,Jan,Corrupción,18.2,3,Jan 2005,18.2
+2005,Jan,Falta de apoyo a la agricultura,15.5,4,Jan 2005,15.5
+2005,Jan,Bajos sueldos,11.6,5,Jan 2005,11.6
+2005,Feb,Falta de empleo,52,1,Feb 2005,52
+2005,Feb,Pobreza,45.9,2,Feb 2005,45.9
+2005,Feb,Falta de apoyo a la agricultura,18,3,Feb 2005,18
+2005,Feb,Corrupción,17.6,4,Feb 2005,17.6
+2005,Feb,Falta de credibilidad del gobierno,10.6,5,Feb 2005,10.6
+2005,Mar,Falta de empleo,50.3,1,Mar 2005,50.3
+2005,Mar,Pobreza,45.5,2,Mar 2005,45.5
+2005,Mar,Corrupción,19.6,3,Mar 2005,19.6
+2005,Mar,Falta de apoyo a la agricultura,16.4,4,Mar 2005,16.4
+2005,Mar,Bajos sueldos,11.6,5,Mar 2005,11.6
+2005,Apr,Falta de empleo,49.3,1,Apr 2005,49.3
+2005,Apr,Pobreza,46.1,2,Apr 2005,46.1
+2005,Apr,Corrupción,17,3,Apr 2005,17
+2005,Apr,Falta de apoyo a la agricultura,16.5,4,Apr 2005,16.5
+2005,Apr,Falta de credibilidad del gobierno,10.9,5,Apr 2005,10.9
+2005,May,Falta de empleo,50.6,1,May 2005,50.6
+2005,May,Pobreza,46.4,2,May 2005,46.4
+2005,May,Corrupción,17.7,3,May 2005,17.7
+2005,May,Falta de apoyo a la agricultura,14.8,4,May 2005,14.8
+2005,May,Bajos sueldos,10.4,5,May 2005,10.4
+2005,Jun,Falta de empleo,50,1,Jun 2005,50
+2005,Jun,Pobreza,44.3,2,Jun 2005,44.3
+2005,Jun,Falta de apoyo a la agricultura,16.7,3,Jun 2005,16.7
+2005,Jun,Corrupción,16.2,4,Jun 2005,16.2
+2005,Jun,Bajos sueldos,9.7,5,Jun 2005,9.7
+2005,Jul,Falta de empleo,50.7,1,Jul 2005,50.7
+2005,Jul,Pobreza,44.4,2,Jul 2005,44.4
+2005,Jul,Corrupción,18.6,3,Jul 2005,18.6
+2005,Jul,Falta de apoyo a la agricultura,17.8,4,Jul 2005,17.8
+2005,Jul,Falta de credibilidad del gobierno,10.1,5,Jul 2005,10.1
+2005,Aug,Falta de empleo,50.8,1,Aug 2005,50.8
+2005,Aug,Pobreza,41.3,2,Aug 2005,41.3
+2005,Aug,Corrupción,17.3,3,Aug 2005,17.3
+2005,Aug,Falta de apoyo a la agricultura,16.6,4,Aug 2005,16.6
+2005,Aug,Falta de credibilidad del gobierno,9.8,5,Aug 2005,9.8
+2005,Sep,Falta de empleo,48.2,1,Sep 2005,48.2
+2005,Sep,Pobreza,42.1,2,Sep 2005,42.1
+2005,Sep,Falta de apoyo a la agricultura,17.8,3,Sep 2005,17.8
+2005,Sep,Corrupción,15.1,4,Sep 2005,15.1
+2005,Sep,Bajos sueldos,12.7,5,Sep 2005,12.7
+2005,Oct,Falta de empleo,47.9,1,Oct 2005,47.9
+2005,Oct,Pobreza,43.9,2,Oct 2005,43.9
+2005,Oct,Falta de apoyo a la agricultura,18.1,3,Oct 2005,18.1
+2005,Oct,Corrupción,15.6,4,Oct 2005,15.6
+2005,Oct,Bajos sueldos,11.1,5,Oct 2005,11.1
+2005,Nov,Falta de empleo,47.5,1,Nov 2005,47.5
+2005,Nov,Pobreza,43.3,2,Nov 2005,43.3
+2005,Nov,Falta de apoyo a la agricultura,17.3,3,Nov 2005,17.3
+2005,Nov,Corrupción,17,4,Nov 2005,17
+2005,Nov,Falta de credibilidad del gobierno,9,5,Nov 2005,9
+2005,Dec,Falta de empleo,47.2,1,Dec 2005,47.2
+2005,Dec,Pobreza,47,2,Dec 2005,47
+2005,Dec,Falta de apoyo a la agricultura,17.4,3,Dec 2005,17.4
+2005,Dec,Corrupción,16.8,4,Dec 2005,16.8
+2005,Dec,Bajos sueldos,9.1,5,Dec 2005,9.1
+2006,Jan,Falta de empleo,49.2,1,Jan 2006,49.2
+2006,Jan,Pobreza,44.5,2,Jan 2006,44.5
+2006,Jan,Corrupción,17.6,3,Jan 2006,17.6
+2006,Jan,Falta de apoyo a la agricultura,17.3,4,Jan 2006,17.3
+2006,Jan,Bajos sueldos,10,5,Jan 2006,10
+2006,Feb,Falta de empleo,46,1,Feb 2006,46
+2006,Feb,Pobreza,41.7,2,Feb 2006,41.7
+2006,Feb,Corrupción,18.9,3,Feb 2006,18.9
+2006,Feb,Falta de apoyo a la agricultura,16.3,4,Feb 2006,16.3
+2006,Feb,Proliferación de la delincuencia,9.8,5,Feb 2006,9.8
+2006,Mar,Falta de empleo,49.5,1,Mar 2006,49.5
+2006,Mar,Pobreza,40.9,2,Mar 2006,40.9
+2006,Mar,Corrupción,17.8,3,Mar 2006,17.8
+2006,Mar,Falta de apoyo a la agricultura,17.8,4,Mar 2006,17.8
+2006,Mar,Bajos sueldos,9.9,5,Mar 2006,9.9
+2006,Apr,Pobreza,43.8,1,Apr 2006,43.8
+2006,Apr,Falta de empleo,41.6,2,Apr 2006,41.6
+2006,Apr,Falta de apoyo a la agricultura,18,3,Apr 2006,18
+2006,Apr,Corrupción,17.9,4,Apr 2006,17.9
+2006,Apr,Bajos sueldos,10.9,5,Apr 2006,10.9
+2006,May,Falta de empleo,45.6,1,May 2006,45.6
+2006,May,Pobreza,45.2,2,May 2006,45.2
+2006,May,Corrupción,19.2,3,May 2006,19.2
+2006,May,Falta de apoyo a la agricultura,15.6,4,May 2006,15.6
+2006,May,Proliferación de la delincuencia,10.3,5,May 2006,10.3
+2006,Jun,Pobreza,43.5,1,Jun 2006,43.5
+2006,Jun,Falta de empleo,42.1,2,Jun 2006,42.1
+2006,Jun,Corrupción,19.2,3,Jun 2006,19.2
+2006,Jun,Falta de apoyo a la agricultura,16.2,4,Jun 2006,16.2
+2006,Jun,Proliferación de la delincuencia,11.1,5,Jun 2006,11.1
+2006,Jul,Pobreza,45.7,1,Jul 2006,45.7
+2006,Jul,Falta de empleo,41.8,2,Jul 2006,41.8
+2006,Jul,Corrupción,17.8,3,Jul 2006,17.8
+2006,Jul,Falta de apoyo a la agricultura,17,4,Jul 2006,17
+2006,Jul,Proliferación de la delincuencia,11,5,Jul 2006,11
+2006,Aug,Falta de empleo,45.1,1,Aug 2006,45.1
+2006,Aug,Pobreza,43.1,2,Aug 2006,43.1
+2006,Aug,Corrupción,17.4,3,Aug 2006,17.4
+2006,Aug,Falta de apoyo a la agricultura,15.1,4,Aug 2006,15.1
+2006,Aug,Proliferación de la delincuencia,12.8,5,Aug 2006,12.8
+2006,Sep,Pobreza,42.7,1,Sep 2006,42.7
+2006,Sep,Falta de empleo,41.7,2,Sep 2006,41.7
+2006,Sep,Corrupción,18.5,3,Sep 2006,18.5
+2006,Sep,Falta de apoyo a la agricultura,15.5,4,Sep 2006,15.5
+2006,Sep,Proliferación de la delincuencia,12.9,5,Sep 2006,12.9
+2006,Oct,Pobreza,42.5,1,Oct 2006,42.5
+2006,Oct,Falta de empleo,39,2,Oct 2006,39
+2006,Oct,Corrupción,19.6,3,Oct 2006,19.6
+2006,Oct,Falta de apoyo a la agricultura,14.4,4,Oct 2006,14.4
+2006,Oct,Proliferación de la delincuencia,12.2,5,Oct 2006,12.2
+2006,Nov,Pobreza,41.5,1,Nov 2006,41.5
+2006,Nov,Falta de empleo,38.4,2,Nov 2006,38.4
+2006,Nov,Corrupción,20.5,3,Nov 2006,20.5
+2006,Nov,Proliferación de la delincuencia,13.7,4,Nov 2006,13.7
+2006,Nov,Falta de apoyo a la agricultura,13.3,5,Nov 2006,13.3
+2006,Dec,Pobreza,43.1,1,Dec 2006,43.1
+2006,Dec,Falta de empleo,40.6,2,Dec 2006,40.6
+2006,Dec,Corrupción,20.4,3,Dec 2006,20.4
+2006,Dec,Falta de apoyo a la agricultura,15.8,4,Dec 2006,15.8
+2006,Dec,Proliferación de la delincuencia,12.1,5,Dec 2006,12.1
+2007,Jan,Pobreza,43,1,Jan 2007,43
+2007,Jan,Falta de empleo,42.3,2,Jan 2007,42.3
+2007,Jan,Corrupción,19.3,3,Jan 2007,19.3
+2007,Jan,Otro,13.5,4,Jan 2007,13.5
+2007,Jan,Mala calidad de la educación estatal,12.6,5,Jan 2007,12.6
+2007,Feb,Pobreza,44.5,1,Feb 2007,44.5
+2007,Feb,Falta de empleo,41.5,2,Feb 2007,41.5
+2007,Feb,Corrupción,18.5,3,Feb 2007,18.5
+2007,Feb,Otro,14.9,4,Feb 2007,14.9
+2007,Feb,Mala calidad de la educación estatal,11.2,5,Feb 2007,11.2
+2007,Mar,Pobreza,43.8,1,Mar 2007,43.8
+2007,Mar,Falta de empleo,42.2,2,Mar 2007,42.2
+2007,Mar,Corrupción,18.1,3,Mar 2007,18.1
+2007,Mar,Otro,16,4,Mar 2007,16
+2007,Mar,Mala calidad de la educación estatal,11.3,5,Mar 2007,11.3
+2007,Apr,Pobreza,44.9,1,Apr 2007,44.9
+2007,Apr,Falta de empleo,41.7,2,Apr 2007,41.7
+2007,Apr,Corrupción,16.7,3,Apr 2007,16.7
+2007,Apr,Otro,13.1,4,Apr 2007,13.1
+2007,Apr,Mala calidad de la educación estatal,11.8,5,Apr 2007,11.8
+2007,May,Pobreza,41.4,1,May 2007,41.4
+2007,May,Falta de empleo,39.4,2,May 2007,39.4
+2007,May,Corrupción,18.1,3,May 2007,18.1
+2007,May,Otro,17.1,4,May 2007,17.1
+2007,May,Falta de apoyo a la agricultura,11,5,May 2007,11
+2007,Jun,Pobreza,41.9,1,Jun 2007,41.9
+2007,Jun,Falta de empleo,40.6,2,Jun 2007,40.6
+2007,Jun,Otro,16.8,3,Jun 2007,16.8
+2007,Jun,Corrupción,16.6,4,Jun 2007,16.6
+2007,Jun,Mala calidad de la educación estatal,10,5,Jun 2007,10
+2007,Jul,Pobreza,39.4,1,Jul 2007,39.4
+2007,Jul,Falta de empleo,36.7,2,Jul 2007,36.7
+2007,Jul,Otro,17.9,3,Jul 2007,17.9
+2007,Jul,Bajos sueldos,15.4,4,Jul 2007,15.4
+2007,Jul,Corrupción,14.7,5,Jul 2007,14.7
+2007,Aug,Pobreza,43.9,1,Aug 2007,43.9
+2007,Aug,Falta de empleo,34.9,2,Aug 2007,34.9
+2007,Aug,Otro,19.4,3,Aug 2007,19.4
+2007,Aug,Corrupción,13.3,4,Aug 2007,13.3
+2007,Aug,Bajos sueldos,12,5,Aug 2007,12
+2007,Sep,Pobreza,42,1,Sep 2007,42
+2007,Sep,Falta de empleo,36.6,2,Sep 2007,36.6
+2007,Sep,Otro,19,3,Sep 2007,19
+2007,Sep,Corrupción,15.5,4,Sep 2007,15.5
+2007,Sep,Bajos sueldos,13,5,Sep 2007,13
+2007,Oct,Pobreza,39.5,1,Oct 2007,39.5
+2007,Oct,Falta de empleo,33.5,2,Oct 2007,33.5
+2007,Oct,Otro,20.5,3,Oct 2007,20.5
+2007,Oct,Bajos sueldos,17.4,4,Oct 2007,17.4
+2007,Oct,Corrupción,15.6,5,Oct 2007,15.6
+2007,Nov,Pobreza,40.5,1,Nov 2007,40.5
+2007,Nov,Falta de empleo,35.4,2,Nov 2007,35.4
+2007,Nov,Otro,21.3,3,Nov 2007,21.3
+2007,Nov,Corrupción,17.1,4,Nov 2007,17.1
+2007,Nov,Bajos sueldos,14.5,5,Nov 2007,14.5
+2007,Dec,Pobreza,38.8,1,Dec 2007,38.8
+2007,Dec,Falta de empleo,35.2,2,Dec 2007,35.2
+2007,Dec,Otro,20.5,3,Dec 2007,20.5
+2007,Dec,Corrupción,16,4,Dec 2007,16
+2007,Dec,Bajos sueldos,15.3,5,Dec 2007,15.3
+2008,Jan,Pobreza,37.4,1,Jan 2008,37.4
+2008,Jan,Falta de empleo,34.6,2,Jan 2008,34.6
+2008,Jan,Otro,22.1,3,Jan 2008,22.1
+2008,Jan,Bajos sueldos,17.5,4,Jan 2008,17.5
+2008,Jan,Corrupción,14.8,5,Jan 2008,14.8
+2008,Feb,Pobreza,36.4,1,Feb 2008,36.4
+2008,Feb,Falta de empleo,33,2,Feb 2008,33
+2008,Feb,Otro,23,3,Feb 2008,23
+2008,Feb,Bajos sueldos,19.8,4,Feb 2008,19.8
+2008,Feb,Corrupción,16.8,5,Feb 2008,16.8
+2008,Mar,Pobreza,34.1,1,Mar 2008,34.1
+2008,Mar,Falta de empleo,29.7,2,Mar 2008,29.7
+2008,Mar,Bajos sueldos,25.7,3,Mar 2008,25.7
+2008,Mar,Otro,21.5,4,Mar 2008,21.5
+2008,Mar,Corrupción,13.5,5,Mar 2008,13.5
+2008,Apr,Bajos sueldos,35,1,Apr 2008,35
+2008,Apr,Pobreza,34.4,2,Apr 2008,34.4
+2008,Apr,Falta de empleo,28.9,3,Apr 2008,28.9
+2008,Apr,Otro,20.5,4,Apr 2008,20.5
+2008,Apr,Corrupción,13.8,5,Apr 2008,13.8
+2008,May,Pobreza,36.9,1,May 2008,36.9
+2008,May,Bajos sueldos,34.9,2,May 2008,34.9
+2008,May,Falta de empleo,28.8,3,May 2008,28.8
+2008,May,Otro,21.8,4,May 2008,21.8
+2008,May,Corrupción,12.6,5,May 2008,12.6
+2008,Jun,Pobreza,39.3,1,Jun 2008,39.3
+2008,Jun,Bajos sueldos,32.1,2,Jun 2008,32.1
+2008,Jun,Falta de empleo,28.1,3,Jun 2008,28.1
+2008,Jun,Otro,20.4,4,Jun 2008,20.4
+2008,Jun,Corrupción,13.1,5,Jun 2008,13.1
+2008,Jul,Bajos sueldos,37.3,1,Jul 2008,37.3
+2008,Jul,Pobreza,36.9,2,Jul 2008,36.9
+2008,Jul,Falta de empleo,26.8,3,Jul 2008,26.8
+2008,Jul,Otro,21.5,4,Jul 2008,21.5
+2008,Jul,Corrupción,11.8,5,Jul 2008,11.8
+2008,Aug,Bajos sueldos,41.1,1,Aug 2008,41.1
+2008,Aug,Pobreza,35.8,2,Aug 2008,35.8
+2008,Aug,Falta de empleo,25.6,3,Aug 2008,25.6
+2008,Aug,Otro,21.5,4,Aug 2008,21.5
+2008,Aug,Corrupción,12.7,5,Aug 2008,12.7
+2008,Sep,Bajos sueldos,42.1,1,Sep 2008,42.1
+2008,Sep,Pobreza,35.5,2,Sep 2008,35.5
+2008,Sep,Falta de empleo,27.8,3,Sep 2008,27.8
+2008,Sep,Otro,19.6,4,Sep 2008,19.6
+2008,Sep,Corrupción,12.4,5,Sep 2008,12.4
+2008,Oct,Bajos sueldos,41.2,1,Oct 2008,41.2
+2008,Oct,Pobreza,33.6,2,Oct 2008,33.6
+2008,Oct,Falta de empleo,25.2,3,Oct 2008,25.2
+2008,Oct,Otro,20.7,4,Oct 2008,20.7
+2008,Oct,Corrupción,17.8,5,Oct 2008,17.8
+2008,Nov,Pobreza,37.3,1,Nov 2008,37.3
+2008,Nov,Bajos sueldos,35.3,2,Nov 2008,35.3
+2008,Nov,Falta de empleo,24.1,3,Nov 2008,24.1
+2008,Nov,Otro,20,4,Nov 2008,20
+2008,Nov,Corrupción,19.5,5,Nov 2008,19.5
+2008,Dec,Pobreza,36.6,1,Dec 2008,36.6
+2008,Dec,Bajos sueldos,33.7,2,Dec 2008,33.7
+2008,Dec,Falta de empleo,30.2,3,Dec 2008,30.2
+2008,Dec,Otro,20.6,4,Dec 2008,20.6
+2008,Dec,Corrupción,18.2,5,Dec 2008,18.2
+2009,Jan,Pobreza,38.3,1,Jan 2009,38.3
+2009,Jan,Falta de empleo,30.5,2,Jan 2009,30.5
+2009,Jan,Bajos sueldos,28.6,3,Jan 2009,28.6
+2009,Jan,Otro,20.2,4,Jan 2009,20.2
+2009,Jan,Corrupción,17.3,5,Jan 2009,17.3
+2009,Feb,Pobreza,39.8,1,Feb 2009,39.8
+2009,Feb,Falta de empleo,29.9,2,Feb 2009,29.9
+2009,Feb,Bajos sueldos,25.6,3,Feb 2009,25.6
+2009,Feb,Otro,20.5,4,Feb 2009,20.5
+2009,Feb,Corrupción,17,5,Feb 2009,17
+2009,Mar,Pobreza,39,1,Mar 2009,39
+2009,Mar,Falta de empleo,32.3,2,Mar 2009,32.3
+2009,Mar,Bajos sueldos,23,3,Mar 2009,23
+2009,Mar,Otro,21.3,4,Mar 2009,21.3
+2009,Mar,Corrupción,17.4,5,Mar 2009,17.4
+2009,Apr,Pobreza,40.6,1,Apr 2009,40.6
+2009,Apr,Falta de empleo,33.2,2,Apr 2009,33.2
+2009,Apr,Otro,22.2,3,Apr 2009,22.2
+2009,Apr,Bajos sueldos,20.7,4,Apr 2009,20.7
+2009,Apr,Corrupción,14.8,5,Apr 2009,14.8
+2009,May,Pobreza,41.6,1,May 2009,41.6
+2009,May,Falta de empleo,32.6,2,May 2009,32.6
+2009,May,Otro,23.8,3,May 2009,23.8
+2009,May,Bajos sueldos,18.9,4,May 2009,18.9
+2009,May,Corrupción,15.6,5,May 2009,15.6
+2009,Jun,Pobreza,38.6,1,Jun 2009,38.6
+2009,Jun,Falta de empleo,30,2,Jun 2009,30
+2009,Jun,Otro,26.6,3,Jun 2009,26.6
+2009,Jun,Bajos sueldos,18.6,4,Jun 2009,18.6
+2009,Jun,Corrupción,14.6,5,Jun 2009,14.6
+2009,Jul,Pobreza,39.1,1,Jul 2009,39.1
+2009,Jul,Falta de empleo,28.1,2,Jul 2009,28.1
+2009,Jul,Otro,25.3,3,Jul 2009,25.3
+2009,Jul,Corrupción,17.9,4,Jul 2009,17.9
+2009,Jul,Bajos sueldos,16.6,5,Jul 2009,16.6
+2009,Aug,Pobreza,43,1,Aug 2009,43
+2009,Aug,Falta de empleo,29.2,2,Aug 2009,29.2
+2009,Aug,Otro,24.3,3,Aug 2009,24.3
+2009,Aug,Corrupción,19.5,4,Aug 2009,19.5
+2009,Aug,Bajos sueldos,13.7,5,Aug 2009,13.7
+2009,Sep,Pobreza,39.1,1,Sep 2009,39.1
+2009,Sep,Falta de empleo,28.5,2,Sep 2009,28.5
+2009,Sep,Otro,24.8,3,Sep 2009,24.8
+2009,Sep,Corrupción,17.3,4,Sep 2009,17.3
+2009,Sep,Bajos sueldos,15.1,5,Sep 2009,15.1
+2009,Oct,Pobreza,40,1,Oct 2009,40
+2009,Oct,Falta de empleo,28.5,2,Oct 2009,28.5
+2009,Oct,Otro,26.7,3,Oct 2009,26.7
+2009,Oct,Corrupción,17.9,4,Oct 2009,17.9
+2009,Oct,Bajos sueldos,13.3,5,Oct 2009,13.3
+2009,Nov,Pobreza,35.5,1,Nov 2009,35.5
+2009,Nov,Falta de empleo,27.5,2,Nov 2009,27.5
+2009,Nov,Otro,27.2,3,Nov 2009,27.2
+2009,Nov,Corrupción,19.2,4,Nov 2009,19.2
+2009,Nov,Bajos sueldos,12.7,5,Nov 2009,12.7
+2009,Dec,Pobreza,40.9,1,Dec 2009,40.9
+2009,Dec,Otro,26.8,2,Dec 2009,26.8
+2009,Dec,Falta de empleo,26.4,3,Dec 2009,26.4
+2009,Dec,Corrupción,19,4,Dec 2009,19
+2009,Dec,Bajos sueldos,10.1,5,Dec 2009,10.1
+2010,Jan,Pobreza,36.3,1,Jan 2010,36.3
+2010,Jan,Otro,28,2,Jan 2010,28
+2010,Jan,Falta de empleo,27.2,3,Jan 2010,27.2
+2010,Jan,Corrupción,17.7,4,Jan 2010,17.7
+2010,Jan,Bajos sueldos,12.4,5,Jan 2010,12.4
+2010,Feb,Pobreza,40.1,1,Feb 2010,40.1
+2010,Feb,Otro,27.2,2,Feb 2010,27.2
+2010,Feb,Falta de empleo,26.6,3,Feb 2010,26.6
+2010,Feb,Corrupción,18.3,4,Feb 2010,18.3
+2010,Feb,Bajos sueldos,12.1,5,Feb 2010,12.1
+2010,Mar,Pobreza,38.2,1,Mar 2010,38.2
+2010,Mar,Otro,27.3,2,Mar 2010,27.3
+2010,Mar,Falta de empleo,27,3,Mar 2010,27
+2010,Mar,Corrupción,18.2,4,Mar 2010,18.2
+2010,Mar,Bajos sueldos,12.2,5,Mar 2010,12.2
+2010,Apr,Pobreza,36.1,1,Apr 2010,36.1
+2010,Apr,Otro,28.4,2,Apr 2010,28.4
+2010,Apr,Falta de empleo,26.6,3,Apr 2010,26.6
+2010,Apr,Corrupción,18.6,4,Apr 2010,18.6
+2010,Apr,Bajos sueldos,12.6,5,Apr 2010,12.6
+2010,May,Pobreza,38.6,1,May 2010,38.6
+2010,May,Falta de empleo,27.3,2,May 2010,27.3
+2010,May,Otro,26.2,3,May 2010,26.2
+2010,May,Corrupción,20,4,May 2010,20
+2010,May,Bajos sueldos,14,5,May 2010,14
+2010,Jun,Pobreza,37.8,1,Jun 2010,37.8
+2010,Jun,Otro,27.7,2,Jun 2010,27.7
+2010,Jun,Falta de empleo,27.2,3,Jun 2010,27.2
+2010,Jun,Corrupción,20.7,4,Jun 2010,20.7
+2010,Jun,Bajos sueldos,11.9,5,Jun 2010,11.9
+2010,Jul,Pobreza,37.2,1,Jul 2010,37.2
+2010,Jul,Otro,29.6,2,Jul 2010,29.6
+2010,Jul,Falta de empleo,24.4,3,Jul 2010,24.4
+2010,Jul,Corrupción,21,4,Jul 2010,21
+2010,Jul,Falta de seguridad ciudadana,12.1,5,Jul 2010,12.1
+2010,Aug,Pobreza,36,1,Aug 2010,36
+2010,Aug,Otro,29.7,2,Aug 2010,29.7
+2010,Aug,Falta de empleo,24,3,Aug 2010,24
+2010,Aug,Corrupción,21.1,4,Aug 2010,21.1
+2010,Aug,Falta de seguridad ciudadana,16.2,5,Aug 2010,16.2
+2010,Sep,Pobreza,35.1,1,Sep 2010,35.1
+2010,Sep,Otro,27.7,2,Sep 2010,27.7
+2010,Sep,Falta de empleo,23.4,3,Sep 2010,23.4
+2010,Sep,Corrupción,21.5,4,Sep 2010,21.5
+2010,Sep,Falta de seguridad ciudadana,14.5,5,Sep 2010,14.5
+2010,Oct,Pobreza,36.5,1,Oct 2010,36.5
+2010,Oct,Otro,28.1,2,Oct 2010,28.1
+2010,Oct,Falta de empleo,24.5,3,Oct 2010,24.5
+2010,Oct,Corrupción,21.8,4,Oct 2010,21.8
+2010,Oct,Falta de seguridad ciudadana,13.2,5,Oct 2010,13.2
+2010,Nov,Pobreza,34.5,1,Nov 2010,34.5
+2010,Nov,Otro,28.9,2,Nov 2010,28.9
+2010,Nov,Falta de empleo,25.1,3,Nov 2010,25.1
+2010,Nov,Corrupción,22.6,4,Nov 2010,22.6
+2010,Nov,Bajos sueldos,13.3,5,Nov 2010,13.3
+2010,Dec,Pobreza,37.6,1,Dec 2010,37.6
+2010,Dec,Otro,28.6,2,Dec 2010,28.6
+2010,Dec,Falta de empleo,25.8,3,Dec 2010,25.8
+2010,Dec,Corrupción,21.8,4,Dec 2010,21.8
+2010,Dec,Falta de seguridad ciudadana,14,5,Dec 2010,14
+2011,Jan,Pobreza,32.5,1,Jan 2011,32.5
+2011,Jan,Otro,29.3,2,Jan 2011,29.3
+2011,Jan,Falta de empleo,23,3,Jan 2011,23
+2011,Jan,Corrupción,21.6,4,Jan 2011,21.6
+2011,Jan,Bajos sueldos,16.3,5,Jan 2011,16.3
+2011,Feb,Pobreza,36.4,1,Feb 2011,36.4
+2011,Feb,Otro,27,2,Feb 2011,27
+2011,Feb,Falta de empleo,26.4,3,Feb 2011,26.4
+2011,Feb,Corrupción,21.7,4,Feb 2011,21.7
+2011,Feb,Falta de seguridad ciudadana,18,5,Feb 2011,18
+2011,Mar,Pobreza,37.9,1,Mar 2011,37.9
+2011,Mar,Otro,26.3,2,Mar 2011,26.3
+2011,Mar,Falta de empleo,25,3,Mar 2011,25
+2011,Mar,Corrupción,20.8,4,Mar 2011,20.8
+2011,Mar,Bajos sueldos,16.1,5,Mar 2011,16.1
+2011,Apr,Pobreza,38.3,1,Apr 2011,38.3
+2011,Apr,Falta de empleo,27.6,2,Apr 2011,27.6
+2011,Apr,Otro,27.2,3,Apr 2011,27.2
+2011,Apr,Corrupción,22.8,4,Apr 2011,22.8
+2011,Apr,Falta de seguridad ciudadana,19.2,5,Apr 2011,19.2
+2011,May,Pobreza,37.3,1,May 2011,37.3
+2011,May,Otro,26.4,2,May 2011,26.4
+2011,May,Falta de empleo,24.7,3,May 2011,24.7
+2011,May,Corrupción,22.2,4,May 2011,22.2
+2011,May,Falta de seguridad ciudadana,17.1,5,May 2011,17.1
+2011,Jun,Pobreza,35.9,1,Jun 2011,35.9
+2011,Jun,Otro,27.8,2,Jun 2011,27.8
+2011,Jun,Falta de empleo,24.8,3,Jun 2011,24.8
+2011,Jun,Corrupción,23.4,4,Jun 2011,23.4
+2011,Jun,Falta de seguridad ciudadana,18.4,5,Jun 2011,18.4
+2011,Jul,Pobreza,40.5,1,Jul 2011,40.5
+2011,Jul,Otro,26,2,Jul 2011,26
+2011,Jul,Falta de empleo,24.3,3,Jul 2011,24.3
+2011,Jul,Corrupción,23.2,4,Jul 2011,23.2
+2011,Jul,Falta de seguridad ciudadana,19.7,5,Jul 2011,19.7
+2011,Aug,Pobreza,39.4,1,Aug 2011,39.4
+2011,Aug,Otro,26.1,2,Aug 2011,26.1
+2011,Aug,Falta de seguridad ciudadana,24.4,3,Aug 2011,24.4
+2011,Aug,Falta de empleo,22.5,4,Aug 2011,22.5
+2011,Aug,Corrupción,22,5,Aug 2011,22
+2011,Sep,Pobreza,34.9,1,Sep 2011,34.9
+2011,Sep,Otro,29.8,2,Sep 2011,29.8
+2011,Sep,Falta de empleo,22.6,3,Sep 2011,22.6
+2011,Sep,Falta de seguridad ciudadana,21.6,4,Sep 2011,21.6
+2011,Sep,Corrupción,21.5,5,Sep 2011,21.5
+2011,Oct,Pobreza,36,1,Oct 2011,36
+2011,Oct,Otro,33.1,2,Oct 2011,33.1
+2011,Oct,Corrupción,22.2,3,Oct 2011,22.2
+2011,Oct,Falta de empleo,20.7,4,Oct 2011,20.7
+2011,Oct,Falta de seguridad ciudadana,19.5,5,Oct 2011,19.5
+2011,Nov,Pobreza,36.2,1,Nov 2011,36.2
+2011,Nov,Otro,29.3,2,Nov 2011,29.3
+2011,Nov,Corrupción,24.3,3,Nov 2011,24.3
+2011,Nov,Falta de empleo,21.9,4,Nov 2011,21.9
+2011,Nov,Falta de seguridad ciudadana,16.2,5,Nov 2011,16.2
+2011,Dec,Pobreza,35,1,Dec 2011,35
+2011,Dec,Otro,29.3,2,Dec 2011,29.3
+2011,Dec,Falta de empleo,21.6,3,Dec 2011,21.6
+2011,Dec,Corrupción,20.8,4,Dec 2011,20.8
+2011,Dec,Falta de seguridad ciudadana,17.8,5,Dec 2011,17.8
+2012,Jan,Pobreza,36.8,1,Jan 2012,36.8
+2012,Jan,Falta de empleo,24.5,2,Jan 2012,24.5
+2012,Jan,Otro,23.2,3,Jan 2012,23.2
+2012,Jan,Corrupción,23,4,Jan 2012,23
+2012,Jan,Delincuencia,19.8,5,Jan 2012,19.8
+2012,Feb,Pobreza,35.1,1,Feb 2012,35.1
+2012,Feb,Delincuencia,24.9,2,Feb 2012,24.9
+2012,Feb,Corrupción,24.3,3,Feb 2012,24.3
+2012,Feb,Otro,24.3,4,Feb 2012,24.3
+2012,Feb,Falta de empleo,23.6,5,Feb 2012,23.6
+2012,Mar,Pobreza,34.5,1,Mar 2012,34.5
+2012,Mar,Otro,26,2,Mar 2012,26
+2012,Mar,Delincuencia,23,3,Mar 2012,23
+2012,Mar,Corrupción,22.9,4,Mar 2012,22.9
+2012,Mar,Falta de empleo,22.2,5,Mar 2012,22.2
+2012,Apr,Pobreza,36.6,1,Apr 2012,36.6
+2012,Apr,Otro,28.4,2,Apr 2012,28.4
+2012,Apr,Corrupción,24.7,3,Apr 2012,24.7
+2012,Apr,Delincuencia,23.2,4,Apr 2012,23.2
+2012,Apr,Falta de empleo,22.8,5,Apr 2012,22.8
+2012,May,Pobreza,35.7,1,May 2012,35.7
+2012,May,Otro,27.9,2,May 2012,27.9
+2012,May,Delincuencia,25.1,3,May 2012,25.1
+2012,May,Corrupción,22.9,4,May 2012,22.9
+2012,May,Falta de empleo,22.3,5,May 2012,22.3
+2012,Jun,Pobreza,35.7,1,Jun 2012,35.7
+2012,Jun,Otro,30,2,Jun 2012,30
+2012,Jun,Delincuencia,27.5,3,Jun 2012,27.5
+2012,Jun,Falta de empleo,24,4,Jun 2012,24
+2012,Jun,Corrupción,21.9,5,Jun 2012,21.9
+2012,Jul,Pobreza,34.4,1,Jul 2012,34.4
+2012,Jul,Otro,26.5,2,Jul 2012,26.5
+2012,Jul,Delincuencia,25.3,3,Jul 2012,25.3
+2012,Jul,Corrupción,23.6,4,Jul 2012,23.6
+2012,Jul,Falta de empleo,21.6,5,Jul 2012,21.6
+2012,Aug,Pobreza,34.1,1,Aug 2012,34.1
+2012,Aug,Delincuencia,27.2,2,Aug 2012,27.2
+2012,Aug,Otro,24.1,3,Aug 2012,24.1
+2012,Aug,Corrupción,24,4,Aug 2012,24
+2012,Aug,Falta de empleo,20.8,5,Aug 2012,20.8
+2012,Sep,Pobreza,34.8,1,Sep 2012,34.8
+2012,Sep,Otro,26.5,2,Sep 2012,26.5
+2012,Sep,Delincuencia,25.7,3,Sep 2012,25.7
+2012,Sep,Corrupción,23.1,4,Sep 2012,23.1
+2012,Sep,Falta de empleo,20.9,5,Sep 2012,20.9
+2012,Oct,Pobreza,31.5,1,Oct 2012,31.5
+2012,Oct,Otro,27.6,2,Oct 2012,27.6
+2012,Oct,Delincuencia,27.2,3,Oct 2012,27.2
+2012,Oct,Corrupción,23.2,4,Oct 2012,23.2
+2012,Oct,Falta de empleo,20,5,Oct 2012,20
+2012,Nov,Pobreza,32.1,1,Nov 2012,32.1
+2012,Nov,Delincuencia,28.4,2,Nov 2012,28.4
+2012,Nov,Otro,25.7,3,Nov 2012,25.7
+2012,Nov,Corrupción,22.8,4,Nov 2012,22.8
+2012,Nov,Falta de empleo,18.8,5,Nov 2012,18.8
+2012,Dec,Pobreza,32.1,1,Dec 2012,32.1
+2012,Dec,Delincuencia,28,2,Dec 2012,28
+2012,Dec,Otro,25.6,3,Dec 2012,25.6
+2012,Dec,Corrupción,24.3,4,Dec 2012,24.3
+2012,Dec,Falta de empleo,19.4,5,Dec 2012,19.4
+2013,Jan,Pobreza,35.4,1,Jan 2013,35.4
+2013,Jan,Delincuencia,31,2,Jan 2013,31
+2013,Jan,Corrupción,28.8,3,Jan 2013,28.8
+2013,Jan,Otro,22,4,Jan 2013,22
+2013,Jan,Falta de empleo,21.8,5,Jan 2013,21.8
+2013,Feb,Pobreza,35,1,Feb 2013,35
+2013,Feb,Delincuencia,29.6,2,Feb 2013,29.6
+2013,Feb,Corrupción,28.1,3,Feb 2013,28.1
+2013,Feb,Otro,23.5,4,Feb 2013,23.5
+2013,Feb,Falta de empleo,18.9,5,Feb 2013,18.9
+2013,Mar,Delincuencia,34.7,1,Mar 2013,34.7
+2013,Mar,Pobreza,34,2,Mar 2013,34
+2013,Mar,Corrupción,25.8,3,Mar 2013,25.8
+2013,Mar,Otro,20.4,4,Mar 2013,20.4
+2013,Mar,Falta de empleo,19.7,5,Mar 2013,19.7
+2013,Apr,Delincuencia,35.8,1,Apr 2013,35.8
+2013,Apr,Pobreza,35.3,2,Apr 2013,35.3
+2013,Apr,Corrupción,24.1,3,Apr 2013,24.1
+2013,Apr,Otro,20.8,4,Apr 2013,20.8
+2013,Apr,Falta de empleo,19,5,Apr 2013,19
+2013,May,Delincuencia,36.8,1,May 2013,36.8
+2013,May,Pobreza,34.9,2,May 2013,34.9
+2013,May,Corrupción,26.1,3,May 2013,26.1
+2013,May,Falta de empleo,20.3,4,May 2013,20.3
+2013,May,Otro,17.9,5,May 2013,17.9
+2013,Jun,Pobreza,35.6,1,Jun 2013,35.6
+2013,Jun,Delincuencia,35.4,2,Jun 2013,35.4
+2013,Jun,Corrupción,25.8,3,Jun 2013,25.8
+2013,Jun,Falta de empleo,19.2,4,Jun 2013,19.2
+2013,Jun,Otro,18.8,5,Jun 2013,18.8
+2013,Jul,Delincuencia,33.2,1,Jul 2013,33.2
+2013,Jul,Pobreza,32.6,2,Jul 2013,32.6
+2013,Jul,Corrupción,25.6,3,Jul 2013,25.6
+2013,Jul,Otro,19.1,4,Jul 2013,19.1
+2013,Jul,Falta de empleo,19,5,Jul 2013,19
+2013,Aug,Delincuencia,35.4,1,Aug 2013,35.4
+2013,Aug,Pobreza,30.1,2,Aug 2013,30.1
+2013,Aug,Corrupción,27.1,3,Aug 2013,27.1
+2013,Aug,Otro,20,4,Aug 2013,20
+2013,Aug,Falta de empleo,17.3,5,Aug 2013,17.3
+2013,Sep,Delincuencia,33.8,1,Sep 2013,33.8
+2013,Sep,Pobreza,30.4,2,Sep 2013,30.4
+2013,Sep,Otro,23.9,3,Sep 2013,23.9
+2013,Sep,Corrupción,23.3,4,Sep 2013,23.3
+2013,Sep,Falta de empleo,17.4,5,Sep 2013,17.4
+2013,Oct,Delincuencia,32.9,1,Oct 2013,32.9
+2013,Oct,Pobreza,28.5,2,Oct 2013,28.5
+2013,Oct,Corrupción,23.8,3,Oct 2013,23.8
+2013,Oct,Otro,22.7,4,Oct 2013,22.7
+2013,Oct,Falta de empleo,17.8,5,Oct 2013,17.8
+2013,Nov,Delincuencia,35.9,1,Nov 2013,35.9
+2013,Nov,Pobreza,28.1,2,Nov 2013,28.1
+2013,Nov,Corrupción,26.7,3,Nov 2013,26.7
+2013,Nov,Otro,22.7,4,Nov 2013,22.7
+2013,Nov,Falta de empleo,15.7,5,Nov 2013,15.7
+2013,Dec,Delincuencia,35.9,1,Dec 2013,35.9
+2013,Dec,Pobreza,30.4,2,Dec 2013,30.4
+2013,Dec,Corrupción,24.4,3,Dec 2013,24.4
+2013,Dec,Otro,21.6,4,Dec 2013,21.6
+2013,Dec,Falta de empleo,16.8,5,Dec 2013,16.8
+2014,Jan,Delincuencia,36.6,1,Jan 2014,36.6
+2014,Jan,Corrupción,33.7,2,Jan 2014,33.7
+2014,Jan,Pobreza,26.4,3,Jan 2014,26.4
+2014,Jan,Otro,19.7,4,Jan 2014,19.7
+2014,Jan,Falta de seguridad ciudadana,17.7,5,Jan 2014,17.7
+2014,Feb,Delincuencia,36.4,1,Feb 2014,36.4
+2014,Feb,Corrupción,32.2,2,Feb 2014,32.2
+2014,Feb,Pobreza,28,3,Feb 2014,28
+2014,Feb,Otro,20.3,4,Feb 2014,20.3
+2014,Feb,Falta de seguridad ciudadana,14.1,5,Feb 2014,14.1
+2014,Mar,Delincuencia,33.9,1,Mar 2014,33.9
+2014,Mar,Corrupción,31.7,2,Mar 2014,31.7
+2014,Mar,Pobreza,26.4,3,Mar 2014,26.4
+2014,Mar,Otro,18.3,4,Mar 2014,18.3
+2014,Mar,Falta de empleo,15.1,5,Mar 2014,15.1
+2014,Apr,Delincuencia,32.2,1,Apr 2014,32.2
+2014,Apr,Corrupción,30.4,2,Apr 2014,30.4
+2014,Apr,Pobreza,23.2,3,Apr 2014,23.2
+2014,Apr,Otro,23,4,Apr 2014,23
+2014,Apr,Falta de seguridad ciudadana,16.8,5,Apr 2014,16.8
+2014,May,Delincuencia,35.2,1,May 2014,35.2
+2014,May,Corrupción,31.6,2,May 2014,31.6
+2014,May,Pobreza,24.2,3,May 2014,24.2
+2014,May,Otro,21.2,4,May 2014,21.2
+2014,May,Falta de seguridad ciudadana,16.8,5,May 2014,16.8
+2014,Jun,Corrupción,34.4,1,Jun 2014,34.4
+2014,Jun,Delincuencia,32.6,2,Jun 2014,32.6
+2014,Jun,Pobreza,23.7,3,Jun 2014,23.7
+2014,Jun,Otro,20.5,4,Jun 2014,20.5
+2014,Jun,Falta de empleo,16.8,5,Jun 2014,16.8
+2014,Jul,Corrupción,34.2,1,Jul 2014,34.2
+2014,Jul,Delincuencia,32.4,2,Jul 2014,32.4
+2014,Jul,Pobreza,23.4,3,Jul 2014,23.4
+2014,Jul,Otro,20.4,4,Jul 2014,20.4
+2014,Jul,Falta de empleo,15.7,5,Jul 2014,15.7
+2014,Aug,Delincuencia,34.7,1,Aug 2014,34.7
+2014,Aug,Corrupción,31.3,2,Aug 2014,31.3
+2014,Aug,Pobreza,24.4,3,Aug 2014,24.4
+2014,Aug,Otro,19.5,4,Aug 2014,19.5
+2014,Aug,Falta de seguridad ciudadana,16.3,5,Aug 2014,16.3
+2014,Sep,Delincuencia,35.6,1,Sep 2014,35.6
+2014,Sep,Corrupción,30,2,Sep 2014,30
+2014,Sep,Pobreza,23.5,3,Sep 2014,23.5
+2014,Sep,Otro,19.5,4,Sep 2014,19.5
+2014,Sep,Falta de empleo,16.3,5,Sep 2014,16.3
+2014,Oct,Corrupción,34.3,1,Oct 2014,34.3
+2014,Oct,Delincuencia,33.3,2,Oct 2014,33.3
+2014,Oct,Pobreza,24.5,3,Oct 2014,24.5
+2014,Oct,Otro,21.5,4,Oct 2014,21.5
+2014,Oct,Falta de empleo,15.2,5,Oct 2014,15.2
+2014,Nov,Delincuencia,36.3,1,Nov 2014,36.3
+2014,Nov,Corrupción,33.6,2,Nov 2014,33.6
+2014,Nov,Pobreza,23.4,3,Nov 2014,23.4
+2014,Nov,Otro,19.3,4,Nov 2014,19.3
+2014,Nov,Falta de seguridad ciudadana,15,5,Nov 2014,15
+2014,Dec,Delincuencia,35.5,1,Dec 2014,35.5
+2014,Dec,Corrupción,33,2,Dec 2014,33
+2014,Dec,Pobreza,23.8,3,Dec 2014,23.8
+2014,Dec,Otro,19,4,Dec 2014,19
+2014,Dec,Falta de empleo,15.5,5,Dec 2014,15.5
+2015,Jan,Corrupción,38.1,1,Jan 2015,38.1
+2015,Jan,Delincuencia,34.8,2,Jan 2015,34.8
+2015,Jan,Pobreza,23.9,3,Jan 2015,23.9
+2015,Jan,Otro,17.6,4,Jan 2015,17.6
+2015,Jan,Falta de seguridad ciudadana,17.1,5,Jan 2015,17.1
+2015,Feb,Corrupción,35.3,1,Feb 2015,35.3
+2015,Feb,Delincuencia,34.4,2,Feb 2015,34.4
+2015,Feb,Pobreza,24.7,3,Feb 2015,24.7
+2015,Feb,Otro,19.3,4,Feb 2015,19.3
+2015,Feb,Falta de seguridad ciudadana,15.7,5,Feb 2015,15.7
+2015,Mar,Delincuencia,34.5,1,Mar 2015,34.5
+2015,Mar,Corrupción,34.4,2,Mar 2015,34.4
+2015,Mar,Pobreza,23.9,3,Mar 2015,23.9
+2015,Mar,Otro,19.7,4,Mar 2015,19.7
+2015,Mar,Falta de seguridad ciudadana,16.1,5,Mar 2015,16.1
+2015,Apr,Corrupción,35.6,1,Apr 2015,35.6
+2015,Apr,Delincuencia,35.1,2,Apr 2015,35.1
+2015,Apr,Pobreza,24.3,3,Apr 2015,24.3
+2015,Apr,Otro,19.6,4,Apr 2015,19.6
+2015,Apr,Falta de empleo,14.5,5,Apr 2015,14.5
+2015,May,Delincuencia,34.6,1,May 2015,34.6
+2015,May,Corrupción,33.7,2,May 2015,33.7
+2015,May,Pobreza,21.7,3,May 2015,21.7
+2015,May,Otro,20.3,4,May 2015,20.3
+2015,May,Falta de empleo,15.2,5,May 2015,15.2
+2015,Jun,Delincuencia,39.5,1,Jun 2015,39.5
+2015,Jun,Corrupción,35.3,2,Jun 2015,35.3
+2015,Jun,Pobreza,22.6,3,Jun 2015,22.6
+2015,Jun,Otro,18.7,4,Jun 2015,18.7
+2015,Jun,Falta de empleo,15.5,5,Jun 2015,15.5
+2015,Jul,Delincuencia,37.5,1,Jul 2015,37.5
+2015,Jul,Corrupción,35.7,2,Jul 2015,35.7
+2015,Jul,Pobreza,24,3,Jul 2015,24
+2015,Jul,Otro,16.5,4,Jul 2015,16.5
+2015,Jul,Falta de seguridad ciudadana,16.1,5,Jul 2015,16.1
+2015,Aug,Delincuencia,41.9,1,Aug 2015,41.9
+2015,Aug,Corrupción,33.8,2,Aug 2015,33.8
+2015,Aug,Pobreza,25.9,3,Aug 2015,25.9
+2015,Aug,Falta de seguridad ciudadana,17.5,4,Aug 2015,17.5
+2015,Aug,Otro,17.3,5,Aug 2015,17.3
+2015,Sep,Delincuencia,44.9,1,Sep 2015,44.9
+2015,Sep,Corrupción,33.6,2,Sep 2015,33.6
+2015,Sep,Pobreza,24.3,3,Sep 2015,24.3
+2015,Sep,Falta de seguridad ciudadana,17.3,4,Sep 2015,17.3
+2015,Sep,Otro,16.9,5,Sep 2015,16.9
+2015,Oct,Delincuencia,43.1,1,Oct 2015,43.1
+2015,Oct,Corrupción,33,2,Oct 2015,33
+2015,Oct,Pobreza,24,3,Oct 2015,24
+2015,Oct,Falta de seguridad ciudadana,18,4,Oct 2015,18
+2015,Oct,Otro,17,5,Oct 2015,17
+2015,Nov,Delincuencia,39.9,1,Nov 2015,39.9
+2015,Nov,Corrupción,34.5,2,Nov 2015,34.5
+2015,Nov,Pobreza,25.3,3,Nov 2015,25.3
+2015,Nov,Otro,16.7,4,Nov 2015,16.7
+2015,Nov,Falta de empleo,16.7,5,Nov 2015,16.7
+2015,Dec,Delincuencia,42.9,1,Dec 2015,42.9
+2015,Dec,Corrupción,33.5,2,Dec 2015,33.5
+2015,Dec,Pobreza,24.5,3,Dec 2015,24.5
+2015,Dec,Falta de empleo,17.8,4,Dec 2015,17.8
+2015,Dec,Falta de seguridad ciudadana,16.5,5,Dec 2015,16.5
+2016,Jan,Corrupción,38.8,1,Jan 2016,38.8
+2016,Jan,Delincuencia,37.8,2,Jan 2016,37.8
+2016,Jan,Pobreza,27.4,3,Jan 2016,27.4
+2016,Jan,Falta de seguridad ciudadana,19.8,4,Jan 2016,19.8
+2016,Jan,Falta de empleo,17.2,5,Jan 2016,17.2
+2016,Feb,Delincuencia,38.7,1,Feb 2016,38.7
+2016,Feb,Corrupción,37.2,2,Feb 2016,37.2
+2016,Feb,Pobreza,27.1,3,Feb 2016,27.1
+2016,Feb,Falta de seguridad ciudadana,19.2,4,Feb 2016,19.2
+2016,Feb,Falta de empleo,18.7,5,Feb 2016,18.7
+2016,Mar,Delincuencia,40.8,1,Mar 2016,40.8
+2016,Mar,Corrupción,38.4,2,Mar 2016,38.4
+2016,Mar,Pobreza,28.6,3,Mar 2016,28.6
+2016,Mar,Falta de empleo,17.1,4,Mar 2016,17.1
+2016,Mar,Falta de seguridad ciudadana,16.6,5,Mar 2016,16.6
+2016,Apr,Delincuencia,38.6,1,Apr 2016,38.6
+2016,Apr,Corrupción,34.7,2,Apr 2016,34.7
+2016,Apr,Pobreza,25.5,3,Apr 2016,25.5
+2016,Apr,Falta de seguridad ciudadana,18.9,4,Apr 2016,18.9
+2016,Apr,Otro,18.1,5,Apr 2016,18.1
+2016,May,Delincuencia,43.6,1,May 2016,43.6
+2016,May,Corrupción,35.1,2,May 2016,35.1
+2016,May,Pobreza,20.8,3,May 2016,20.8
+2016,May,Falta de seguridad ciudadana,18.9,4,May 2016,18.9
+2016,May,Otro,17.9,5,May 2016,17.9
+2016,Jun,Delincuencia,42.3,1,Jun 2016,42.3
+2016,Jun,Corrupción,34.6,2,Jun 2016,34.6
+2016,Jun,Pobreza,22.6,3,Jun 2016,22.6
+2016,Jun,Falta de seguridad ciudadana,18.9,4,Jun 2016,18.9
+2016,Jun,Otro,17.1,5,Jun 2016,17.1
+2016,Jul,Delincuencia,44.7,1,Jul 2016,44.7
+2016,Jul,Corrupción,35.4,2,Jul 2016,35.4
+2016,Jul,Pobreza,24.2,3,Jul 2016,24.2
+2016,Jul,Falta de seguridad ciudadana,18.4,4,Jul 2016,18.4
+2016,Jul,Otro,16.7,5,Jul 2016,16.7
+2016,Aug,Delincuencia,46.5,1,Aug 2016,46.5
+2016,Aug,Corrupción,32.7,2,Aug 2016,32.7
+2016,Aug,Pobreza,22.4,3,Aug 2016,22.4
+2016,Aug,Falta de seguridad ciudadana,17.8,4,Aug 2016,17.8
+2016,Aug,Otro,17.2,5,Aug 2016,17.2
+2016,Sep,Delincuencia,43.2,1,Sep 2016,43.2
+2016,Sep,Corrupción,33.9,2,Sep 2016,33.9
+2016,Sep,Pobreza,21.7,3,Sep 2016,21.7
+2016,Sep,Otro,17.4,4,Sep 2016,17.4
+2016,Sep,Falta de seguridad ciudadana,15.8,5,Sep 2016,15.8
+2016,Oct,Delincuencia,41.7,1,Oct 2016,41.7
+2016,Oct,Corrupción,35.2,2,Oct 2016,35.2
+2016,Oct,Pobreza,22.7,3,Oct 2016,22.7
+2016,Oct,Otro,18.5,4,Oct 2016,18.5
+2016,Oct,Falta de seguridad ciudadana,14.2,5,Oct 2016,14.2
+2016,Nov,Delincuencia,40.9,1,Nov 2016,40.9
+2016,Nov,Corrupción,37.4,2,Nov 2016,37.4
+2016,Nov,Pobreza,21.7,3,Nov 2016,21.7
+2016,Nov,Otro,18.4,4,Nov 2016,18.4
+2016,Nov,Falta de seguridad ciudadana,14.6,5,Nov 2016,14.6
+2016,Dec,Delincuencia,40.8,1,Dec 2016,40.8
+2016,Dec,Corrupción,32.7,2,Dec 2016,32.7
+2016,Dec,Pobreza,21.8,3,Dec 2016,21.8
+2016,Dec,Otro,18.1,4,Dec 2016,18.1
+2016,Dec,Falta de seguridad ciudadana,13.3,5,Dec 2016,13.3
+2017,Jan,Delincuencia,42.1,1,Jan 2017,42.1
+2017,Jan,Corrupción,41.3,2,Jan 2017,41.3
+2017,Jan,Pobreza,21.3,3,Jan 2017,21.3
+2017,Jan,Otro,16.6,4,Jan 2017,16.6
+2017,Jan,Falta de seguridad ciudadana,15.8,5,Jan 2017,15.8
+2017,Feb,Corrupción,43,1,Feb 2017,43
+2017,Feb,Delincuencia,35.9,2,Feb 2017,35.9
+2017,Feb,Pobreza,22,3,Feb 2017,22
+2017,Feb,Otro,19.5,4,Feb 2017,19.5
+2017,Feb,Falta de empleo,13.2,5,Feb 2017,13.2
+2017,Mar,Corrupción,42.7,1,Mar 2017,42.7
+2017,Mar,Delincuencia,36.4,2,Mar 2017,36.4
+2017,Mar,Pobreza,22.4,3,Mar 2017,22.4
+2017,Mar,Otro,22,4,Mar 2017,22
+2017,Mar,Falta de seguridad ciudadana,12.1,5,Mar 2017,12.1
+2017,Apr,Corrupción,40.3,1,Apr 2017,40.3
+2017,Apr,Delincuencia,34.3,2,Apr 2017,34.3
+2017,Apr,Pobreza,24.1,3,Apr 2017,24.1
+2017,Apr,Otro,21.8,4,Apr 2017,21.8
+2017,Apr,Falta de empleo,12.8,5,Apr 2017,12.8
+2017,May,Delincuencia,39.8,1,May 2017,39.8
+2017,May,Corrupción,39.6,2,May 2017,39.6
+2017,May,Pobreza,21.2,3,May 2017,21.2
+2017,May,Otro,18.7,4,May 2017,18.7
+2017,May,Falta de empleo,12,5,May 2017,12
+2017,Jun,Corrupción,39.5,1,Jun 2017,39.5
+2017,Jun,Delincuencia,38.2,2,Jun 2017,38.2
+2017,Jun,Pobreza,22.8,3,Jun 2017,22.8
+2017,Jun,Otro,17,4,Jun 2017,17
+2017,Jun,Falta de empleo,13.1,5,Jun 2017,13.1
+2017,Jul,Corrupción,39.6,1,Jul 2017,39.6
+2017,Jul,Delincuencia,39,2,Jul 2017,39
+2017,Jul,Pobreza,20.4,3,Jul 2017,20.4
+2017,Jul,Otro,18.3,4,Jul 2017,18.3
+2017,Jul,Falta de empleo,13.9,5,Jul 2017,13.9
+2017,Aug,Corrupción,37.7,1,Aug 2017,37.7
+2017,Aug,Delincuencia,34,2,Aug 2017,34
+2017,Aug,Pobreza,21.8,3,Aug 2017,21.8
+2017,Aug,Otro,16.9,4,Aug 2017,16.9
+2017,Aug,Falta de empleo,12.4,5,Aug 2017,12.4
+2017,Sep,Corrupción,36.7,1,Sep 2017,36.7
+2017,Sep,Delincuencia,35.8,2,Sep 2017,35.8
+2017,Sep,Pobreza,20.6,3,Sep 2017,20.6
+2017,Sep,Otro,18.1,4,Sep 2017,18.1
+2017,Sep,Mala calidad de la educación estatal,12.7,5,Sep 2017,12.7
+2017,Oct,Corrupción,38.2,1,Oct 2017,38.2
+2017,Oct,Delincuencia,35.8,2,Oct 2017,35.8
+2017,Oct,Pobreza,23.9,3,Oct 2017,23.9
+2017,Oct,Otro,16.2,4,Oct 2017,16.2
+2017,Oct,Falta de empleo,12.9,5,Oct 2017,12.9
+2017,Nov,Corrupción,39.1,1,Nov 2017,39.1
+2017,Nov,Delincuencia,37.5,2,Nov 2017,37.5
+2017,Nov,Pobreza,21.6,3,Nov 2017,21.6
+2017,Nov,Otro,18.7,4,Nov 2017,18.7
+2017,Nov,Falta de empleo,11.5,5,Nov 2017,11.5
+2017,Dec,Corrupción,43,1,Dec 2017,43
+2017,Dec,Delincuencia,36.8,2,Dec 2017,36.8
+2017,Dec,Pobreza,22.7,3,Dec 2017,22.7
+2017,Dec,Otro,19,4,Dec 2017,19
+2017,Dec,Falta de empleo,12.2,5,Dec 2017,12.2
+2018,Jan,Corrupción,43.4,1,Jan 2018,43.4
+2018,Jan,Delincuencia,32.9,2,Jan 2018,32.9
+2018,Jan,Pobreza,22.4,3,Jan 2018,22.4
+2018,Jan,Otro,17.2,4,Jan 2018,17.2
+2018,Jan,Falta de empleo,12,5,Jan 2018,12
+2018,Feb,Corrupción,42.9,1,Feb 2018,42.9
+2018,Feb,Delincuencia,36.1,2,Feb 2018,36.1
+2018,Feb,Pobreza,22.5,3,Feb 2018,22.5
+2018,Feb,Otro,18.5,4,Feb 2018,18.5
+2018,Feb,Falta de empleo,12.8,5,Feb 2018,12.8
+2018,Mar,Corrupción,45.4,1,Mar 2018,45.4
+2018,Mar,Delincuencia,35.8,2,Mar 2018,35.8
+2018,Mar,Pobreza,22,3,Mar 2018,22
+2018,Mar,Otro,17.2,4,Mar 2018,17.2
+2018,Mar,Falta de empleo,13.4,5,Mar 2018,13.4
+2018,Apr,Corrupción,47.7,1,Apr 2018,47.7
+2018,Apr,Delincuencia,33.6,2,Apr 2018,33.6
+2018,Apr,Pobreza,22.3,3,Apr 2018,22.3
+2018,Apr,Otro,19.5,4,Apr 2018,19.5
+2018,Apr,Falta de empleo,14.4,5,Apr 2018,14.4
+2018,May,Corrupción,46.9,1,May 2018,46.9
+2018,May,Delincuencia,34.7,2,May 2018,34.7
+2018,May,Pobreza,25.1,3,May 2018,25.1
+2018,May,Otro,18.4,4,May 2018,18.4
+2018,May,Falta de empleo,13.1,5,May 2018,13.1
+2018,Jun,Corrupción,46,1,Jun 2018,46
+2018,Jun,Delincuencia,32.5,2,Jun 2018,32.5
+2018,Jun,Pobreza,23.4,3,Jun 2018,23.4
+2018,Jun,Otro,19.6,4,Jun 2018,19.6
+2018,Jun,Falta de empleo,11.7,5,Jun 2018,11.7
+2018,Jul,Corrupción,50.8,1,Jul 2018,50.8
+2018,Jul,Delincuencia,32.5,2,Jul 2018,32.5
+2018,Jul,Pobreza,25.3,3,Jul 2018,25.3
+2018,Jul,Otro,18.1,4,Jul 2018,18.1
+2018,Jul,Falta de empleo,11.4,5,Jul 2018,11.4
+2018,Aug,Corrupción,56.5,1,Aug 2018,56.5
+2018,Aug,Delincuencia,29.4,2,Aug 2018,29.4
+2018,Aug,Pobreza,22.9,3,Aug 2018,22.9
+2018,Aug,Otro,18.1,4,Aug 2018,18.1
+2018,Aug,Falta de empleo,11.8,5,Aug 2018,11.8
+2018,Sep,Corrupción,55.3,1,Sep 2018,55.3
+2018,Sep,Delincuencia,31.9,2,Sep 2018,31.9
+2018,Sep,Pobreza,22.5,3,Sep 2018,22.5
+2018,Sep,Otro,17.7,4,Sep 2018,17.7
+2018,Sep,Falta de empleo,12.3,5,Sep 2018,12.3
+2018,Oct,Corrupción,54.7,1,Oct 2018,54.7
+2018,Oct,Delincuencia,32.9,2,Oct 2018,32.9
+2018,Oct,Pobreza,21,3,Oct 2018,21
+2018,Oct,Otro,18.8,4,Oct 2018,18.8
+2018,Oct,Falta de empleo,11.5,5,Oct 2018,11.5
+2018,Nov,Corrupción,57.8,1,Nov 2018,57.8
+2018,Nov,Delincuencia,30.8,2,Nov 2018,30.8
+2018,Nov,Pobreza,22,3,Nov 2018,22
+2018,Nov,Otro,17.5,4,Nov 2018,17.5
+2018,Nov,Falta de seguridad ciudadana,10.7,5,Nov 2018,10.7
+2018,Dec,Corrupción,55.9,1,Dec 2018,55.9
+2018,Dec,Delincuencia,35.3,2,Dec 2018,35.3
+2018,Dec,Pobreza,22.8,3,Dec 2018,22.8
+2018,Dec,Otro,17.5,4,Dec 2018,17.5
+2018,Dec,Falta de empleo,11.3,5,Dec 2018,11.3
