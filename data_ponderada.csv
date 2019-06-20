@@ -1,0 +1,871 @@
+problema,perc,rank,fecha,str_perc
+Falta de empleo,56.1,1,Jul 2004,56.1 %
+Pobreza,39.2,2,Jul 2004,39.2 %
+Corrupción,16.7,3,Jul 2004,16.7 %
+Falta de credibilidad del gobierno,16.2,4,Jul 2004,16.2 %
+Falta de apoyo a la agricultura,10.9,5,Jul 2004,10.9 %
+Falta de empleo,58.1,1,Aug 2004,58.1 %
+Pobreza,44.9,2,Aug 2004,44.9 %
+Corrupción,17,3,Aug 2004,17 %
+Falta de credibilidad del gobierno,12.2,4,Aug 2004,12.2 %
+Falta de apoyo a la agricultura,9.8,5,Aug 2004,9.8 %
+Falta de empleo,55.2,1,Sep 2004,55.2 %
+Pobreza,46.1,2,Sep 2004,46.1 %
+Corrupción,14,3,Sep 2004,14 %
+Falta de credibilidad del gobierno,12.7,4,Sep 2004,12.7 %
+Falta de apoyo a la agricultura,11.7,5,Sep 2004,11.7 %
+Falta de empleo,57.3,1,Oct 2004,57.3 %
+Pobreza,39.1,2,Oct 2004,39.1 %
+Corrupción,16.3,3,Oct 2004,16.3 %
+Falta de credibilidad del gobierno,15.1,4,Oct 2004,15.1 %
+Falta de apoyo a la agricultura,9.9,5,Oct 2004,9.9 %
+Falta de empleo,51.9,1,Nov 2004,51.9 %
+Pobreza,41.9,2,Nov 2004,41.9 %
+Corrupción,15.4,3,Nov 2004,15.4 %
+Falta de credibilidad del gobierno,11.3,4,Nov 2004,11.3 %
+Falta de apoyo a la agricultura,9.9,5,Nov 2004,9.9 %
+Falta de empleo,51.1,1,Dec 2004,51.1 %
+Pobreza,44.3,2,Dec 2004,44.3 %
+Corrupción,19.3,3,Dec 2004,19.3 %
+Falta de apoyo a la agricultura,12.9,4,Dec 2004,12.9 %
+Bajos sueldos,12.6,5,Dec 2004,12.6 %
+Falta de empleo,58.9,1,Jan 2005,58.9 %
+Pobreza,44.2,2,Jan 2005,44.2 %
+Corrupción,19.5,3,Jan 2005,19.5 %
+Bajos sueldos,12.8,4,Jan 2005,12.8 %
+Falta de credibilidad del gobierno,11.3,5,Jan 2005,11.3 %
+Falta de empleo,60.4,1,Feb 2005,60.4 %
+Pobreza,43.9,2,Feb 2005,43.9 %
+Corrupción,23.8,3,Feb 2005,23.8 %
+Falta de apoyo a la agricultura,12.9,4,Feb 2005,12.9 %
+Falta de credibilidad del gobierno,10.4,5,Feb 2005,10.4 %
+Falta de empleo,55.4,1,Mar 2005,55.4 %
+Pobreza,45.7,2,Mar 2005,45.7 %
+Corrupción,23.2,3,Mar 2005,23.2 %
+Falta de credibilidad del gobierno,10.6,4,Mar 2005,10.6 %
+Bajos sueldos,10.5,5,Mar 2005,10.5 %
+Falta de empleo,54.8,1,Apr 2005,54.8 %
+Pobreza,41.9,2,Apr 2005,41.9 %
+Corrupción,23,3,Apr 2005,23 %
+Falta de apoyo a la agricultura,10.4,4,Apr 2005,10.4 %
+Falta de credibilidad del gobierno,10.3,5,Apr 2005,10.3 %
+Falta de empleo,53.8,1,May 2005,53.8 %
+Pobreza,44.6,2,May 2005,44.6 %
+Corrupción,22.4,3,May 2005,22.4 %
+Falta de credibilidad del gobierno,11.8,4,May 2005,11.8 %
+Bajos sueldos,10,5,May 2005,10 %
+Falta de empleo,57,1,Jun 2005,57 %
+Pobreza,42.9,2,Jun 2005,42.9 %
+Corrupción,19.1,3,Jun 2005,19.1 %
+Bajos sueldos,11.5,4,Jun 2005,11.5 %
+Falta de apoyo a la agricultura,11.1,5,Jun 2005,11.1 %
+Falta de empleo,57.1,1,Jul 2005,57.1 %
+Pobreza,41.4,2,Jul 2005,41.4 %
+Corrupción,27.1,3,Jul 2005,27.1 %
+Bajos sueldos,12.3,4,Jul 2005,12.3 %
+Falta de credibilidad del gobierno,11.7,5,Jul 2005,11.7 %
+Falta de empleo,57.8,1,Aug 2005,57.8 %
+Pobreza,44.5,2,Aug 2005,44.5 %
+Corrupción,18.4,3,Aug 2005,18.4 %
+Falta de credibilidad del gobierno,11.1,4,Aug 2005,11.1 %
+Bajos sueldos,11,5,Aug 2005,11 %
+Falta de empleo,57.4,1,Sep 2005,57.4 %
+Pobreza,39.3,2,Sep 2005,39.3 %
+Corrupción,16,3,Sep 2005,16 %
+Falta de credibilidad del gobierno,13,4,Sep 2005,13 %
+Bajos sueldos,12.7,5,Sep 2005,12.7 %
+Falta de empleo,55.4,1,Oct 2005,55.4 %
+Pobreza,43.3,2,Oct 2005,43.3 %
+Corrupción,18.7,3,Oct 2005,18.7 %
+Falta de apoyo a la agricultura,12.9,4,Oct 2005,12.9 %
+Bajos sueldos,12.3,5,Oct 2005,12.3 %
+Falta de empleo,49.9,1,Nov 2005,49.9 %
+Pobreza,49.2,2,Nov 2005,49.2 %
+Corrupción,21.1,3,Nov 2005,21.1 %
+Falta de apoyo a la agricultura,11.9,4,Nov 2005,11.9 %
+Bajos sueldos,11.1,5,Nov 2005,11.1 %
+Falta de empleo,52.3,1,Dec 2005,52.3 %
+Pobreza,50.1,2,Dec 2005,50.1 %
+Corrupción,24,3,Dec 2005,24 %
+Falta de apoyo a la agricultura,13.2,4,Dec 2005,13.2 %
+Bajos sueldos,12,5,Dec 2005,12 %
+Falta de empleo,57,1,Jan 2006,57 %
+Pobreza,43.6,2,Jan 2006,43.6 %
+Corrupción,20.3,3,Jan 2006,20.3 %
+Bajos sueldos,11.9,4,Jan 2006,11.9 %
+Falta de apoyo a la agricultura,10.9,5,Jan 2006,10.9 %
+Falta de empleo,53.3,1,Feb 2006,53.3 %
+Pobreza,43.6,2,Feb 2006,43.6 %
+Corrupción,20.5,3,Feb 2006,20.5 %
+Bajos sueldos,11.3,4,Feb 2006,11.3 %
+Proliferación de la delincuencia,11.3,5,Feb 2006,11.3 %
+Falta de empleo,53.3,1,Mar 2006,53.3 %
+Pobreza,42.5,2,Mar 2006,42.5 %
+Corrupción,24,3,Mar 2006,24 %
+Falta de apoyo a la agricultura,11.3,4,Mar 2006,11.3 %
+Bajos sueldos,10.7,5,Mar 2006,10.7 %
+Falta de empleo,44,1,Apr 2006,44 %
+Pobreza,43.6,2,Apr 2006,43.6 %
+Corrupción,19.9,3,Apr 2006,19.9 %
+Bajos sueldos,16.7,4,Apr 2006,16.7 %
+Falta de apoyo a la agricultura,13.6,5,Apr 2006,13.6 %
+Falta de empleo,48.7,1,May 2006,48.7 %
+Pobreza,48.1,2,May 2006,48.1 %
+Corrupción,23.8,3,May 2006,23.8 %
+Bajos sueldos,12.9,4,May 2006,12.9 %
+Falta de apoyo a la agricultura,10.9,5,May 2006,10.9 %
+Falta de empleo,49.7,1,Jun 2006,49.7 %
+Pobreza,39.6,2,Jun 2006,39.6 %
+Corrupción,21.9,3,Jun 2006,21.9 %
+Proliferación de la delincuencia,13.5,4,Jun 2006,13.5 %
+Bajos sueldos,10.8,5,Jun 2006,10.8 %
+Falta de empleo,45.7,1,Jul 2006,45.7 %
+Pobreza,42.1,2,Jul 2006,42.1 %
+Corrupción,20.1,3,Jul 2006,20.1 %
+Mala calidad de la educación estatal,16.6,4,Jul 2006,16.6 %
+Proliferación de la delincuencia,15.7,5,Jul 2006,15.7 %
+Falta de empleo,47.2,1,Aug 2006,47.2 %
+Pobreza,45.7,2,Aug 2006,45.7 %
+Corrupción,19,3,Aug 2006,19 %
+Proliferación de la delincuencia,18.1,4,Aug 2006,18.1 %
+Mala calidad de la educación estatal,14.4,5,Aug 2006,14.4 %
+Falta de empleo,47.3,1,Sep 2006,47.3 %
+Pobreza,42.9,2,Sep 2006,42.9 %
+Corrupción,21.7,3,Sep 2006,21.7 %
+Proliferación de la delincuencia,16.3,4,Sep 2006,16.3 %
+Mala calidad de la educación estatal,15.7,5,Sep 2006,15.7 %
+Falta de empleo,46.4,1,Oct 2006,46.4 %
+Pobreza,41.4,2,Oct 2006,41.4 %
+Corrupción,20.8,3,Oct 2006,20.8 %
+Proliferación de la delincuencia,19.5,4,Oct 2006,19.5 %
+Mala calidad de la educación estatal,16.5,5,Oct 2006,16.5 %
+Falta de empleo,42.3,1,Nov 2006,42.3 %
+Pobreza,42.1,2,Nov 2006,42.1 %
+Proliferación de la delincuencia,20,3,Nov 2006,20 %
+Corrupción,19.6,4,Nov 2006,19.6 %
+Otro,13.9,5,Nov 2006,13.9 %
+Falta de empleo,47.3,1,Dec 2006,47.3 %
+Pobreza,42.3,2,Dec 2006,42.3 %
+Corrupción,22.8,3,Dec 2006,22.8 %
+Proliferación de la delincuencia,18.8,4,Dec 2006,18.8 %
+Mala calidad de la educación estatal,17.3,5,Dec 2006,17.3 %
+Falta de empleo,46.4,1,Jan 2007,46.4 %
+Pobreza,44.8,2,Jan 2007,44.8 %
+Corrupción,22.2,3,Jan 2007,22.2 %
+Falta de seguridad ciudadana,15.7,4,Jan 2007,15.7 %
+Mala calidad de la educación estatal,14.2,5,Jan 2007,14.2 %
+Falta de empleo,46.3,1,Feb 2007,46.3 %
+Pobreza,43.9,2,Feb 2007,43.9 %
+Corrupción,20.8,3,Feb 2007,20.8 %
+Mala calidad de la educación estatal,15.6,4,Feb 2007,15.6 %
+Falta de seguridad ciudadana,13.2,5,Feb 2007,13.2 %
+Falta de empleo,44.5,1,Mar 2007,44.5 %
+Pobreza,43.6,2,Mar 2007,43.6 %
+Corrupción,19.5,3,Mar 2007,19.5 %
+Otro,16.9,4,Mar 2007,16.9 %
+Mala calidad de la educación estatal,14.4,5,Mar 2007,14.4 %
+Falta de empleo,45.8,1,Apr 2007,45.8 %
+Pobreza,45.7,2,Apr 2007,45.7 %
+Corrupción,21.2,3,Apr 2007,21.2 %
+Mala calidad de la educación estatal,14.2,4,Apr 2007,14.2 %
+Otro,12.6,5,Apr 2007,12.6 %
+Pobreza,43.3,1,May 2007,43.3 %
+Falta de empleo,40.7,2,May 2007,40.7 %
+Corrupción,19.4,3,May 2007,19.4 %
+Otro,18.2,4,May 2007,18.2 %
+Mala calidad de la educación estatal,14.4,5,May 2007,14.4 %
+Pobreza,41.9,1,Jun 2007,41.9 %
+Falta de empleo,41.6,2,Jun 2007,41.6 %
+Corrupción,19,3,Jun 2007,19 %
+Otro,17.7,4,Jun 2007,17.7 %
+Falta de seguridad ciudadana,11.5,5,Jun 2007,11.5 %
+Falta de empleo,40.8,1,Jul 2007,40.8 %
+Pobreza,39.8,2,Jul 2007,39.8 %
+Otro,19.5,3,Jul 2007,19.5 %
+Mala calidad de la educación estatal,16.3,4,Jul 2007,16.3 %
+Corrupción,16,5,Jul 2007,16 %
+Pobreza,43.1,1,Aug 2007,43.1 %
+Falta de empleo,39.9,2,Aug 2007,39.9 %
+Otro,21.1,3,Aug 2007,21.1 %
+Corrupción,17,4,Aug 2007,17 %
+Mala calidad de la educación estatal,13.6,5,Aug 2007,13.6 %
+Falta de empleo,41.2,1,Sep 2007,41.2 %
+Pobreza,39.3,2,Sep 2007,39.3 %
+Otro,19.7,3,Sep 2007,19.7 %
+Corrupción,17.3,4,Sep 2007,17.3 %
+Mala calidad de la educación estatal,15.5,5,Sep 2007,15.5 %
+Pobreza,38.4,1,Oct 2007,38.4 %
+Falta de empleo,38.4,2,Oct 2007,38.4 %
+Otro,22.1,3,Oct 2007,22.1 %
+Corrupción,17.3,4,Oct 2007,17.3 %
+Bajos sueldos,17.1,5,Oct 2007,17.1 %
+Falta de empleo,39.2,1,Nov 2007,39.2 %
+Pobreza,38.9,2,Nov 2007,38.9 %
+Otro,22,3,Nov 2007,22 %
+Corrupción,18,4,Nov 2007,18 %
+Mala calidad de la educación estatal,12.7,5,Nov 2007,12.7 %
+Falta de empleo,39.7,1,Dec 2007,39.7 %
+Pobreza,37.9,2,Dec 2007,37.9 %
+Otro,19.3,3,Dec 2007,19.3 %
+Corrupción,18.8,4,Dec 2007,18.8 %
+Bajos sueldos,15.9,5,Dec 2007,15.9 %
+Falta de empleo,36.7,1,Jan 2008,36.7 %
+Pobreza,34.3,2,Jan 2008,34.3 %
+Otro,23.5,3,Jan 2008,23.5 %
+Corrupción,17.8,4,Jan 2008,17.8 %
+Bajos sueldos,15.2,5,Jan 2008,15.2 %
+Falta de empleo,36.1,1,Feb 2008,36.1 %
+Pobreza,35.4,2,Feb 2008,35.4 %
+Otro,22.4,3,Feb 2008,22.4 %
+Corrupción,19.6,4,Feb 2008,19.6 %
+Bajos sueldos,17.5,5,Feb 2008,17.5 %
+Falta de empleo,33.5,1,Mar 2008,33.5 %
+Pobreza,33.4,2,Mar 2008,33.4 %
+Bajos sueldos,23.8,3,Mar 2008,23.8 %
+Otro,22.8,4,Mar 2008,22.8 %
+Mala calidad de la educación estatal,15,5,Mar 2008,15 %
+Pobreza,35.3,1,Apr 2008,35.3 %
+Bajos sueldos,33.8,2,Apr 2008,33.8 %
+Falta de empleo,31.9,3,Apr 2008,31.9 %
+Otro,20,4,Apr 2008,20 %
+Corrupción,17.3,5,Apr 2008,17.3 %
+Pobreza,37.9,1,May 2008,37.9 %
+Bajos sueldos,33.6,2,May 2008,33.6 %
+Falta de empleo,32.7,3,May 2008,32.7 %
+Otro,22.1,4,May 2008,22.1 %
+Corrupción,15.2,5,May 2008,15.2 %
+Pobreza,41.6,1,Jun 2008,41.6 %
+Bajos sueldos,31.8,2,Jun 2008,31.8 %
+Falta de empleo,30.6,3,Jun 2008,30.6 %
+Otro,21.2,4,Jun 2008,21.2 %
+Corrupción,15.8,5,Jun 2008,15.8 %
+Pobreza,40.7,1,Jul 2008,40.7 %
+Bajos sueldos,34.1,2,Jul 2008,34.1 %
+Falta de empleo,30.9,3,Jul 2008,30.9 %
+Otro,23.1,4,Jul 2008,23.1 %
+Corrupción,15.3,5,Jul 2008,15.3 %
+Bajos sueldos,42.5,1,Aug 2008,42.5 %
+Pobreza,38.2,2,Aug 2008,38.2 %
+Falta de empleo,30.4,3,Aug 2008,30.4 %
+Otro,25.2,4,Aug 2008,25.2 %
+Corrupción,19.1,5,Aug 2008,19.1 %
+Bajos sueldos,41,1,Sep 2008,41 %
+Pobreza,37.7,2,Sep 2008,37.7 %
+Falta de empleo,31.7,3,Sep 2008,31.7 %
+Otro,23.9,4,Sep 2008,23.9 %
+Corrupción,13.5,5,Sep 2008,13.5 %
+Bajos sueldos,42.4,1,Oct 2008,42.4 %
+Pobreza,36.1,2,Oct 2008,36.1 %
+Falta de empleo,28.6,3,Oct 2008,28.6 %
+Otro,23.3,4,Oct 2008,23.3 %
+Corrupción,22.1,5,Oct 2008,22.1 %
+Pobreza,37.7,1,Nov 2008,37.7 %
+Bajos sueldos,37.2,2,Nov 2008,37.2 %
+Falta de empleo,27.5,3,Nov 2008,27.5 %
+Corrupción,22.6,4,Nov 2008,22.6 %
+Otro,21.9,5,Nov 2008,21.9 %
+Bajos sueldos,36.3,1,Dec 2008,36.3 %
+Pobreza,36,2,Dec 2008,36 %
+Falta de empleo,35.5,3,Dec 2008,35.5 %
+Otro,22.6,4,Dec 2008,22.6 %
+Corrupción,21.7,5,Dec 2008,21.7 %
+Pobreza,36.7,1,Jan 2009,36.7 %
+Falta de empleo,33.1,2,Jan 2009,33.1 %
+Bajos sueldos,29.6,3,Jan 2009,29.6 %
+Otro,22.9,4,Jan 2009,22.9 %
+Corrupción,21.2,5,Jan 2009,21.2 %
+Pobreza,41,1,Feb 2009,41 %
+Falta de empleo,34.8,2,Feb 2009,34.8 %
+Otro,24.6,3,Feb 2009,24.6 %
+Corrupción,23.7,4,Feb 2009,23.7 %
+Bajos sueldos,23.3,5,Feb 2009,23.3 %
+Pobreza,40.7,1,Mar 2009,40.7 %
+Falta de empleo,36.1,2,Mar 2009,36.1 %
+Otro,24.8,3,Mar 2009,24.8 %
+Bajos sueldos,23.6,4,Mar 2009,23.6 %
+Corrupción,21.3,5,Mar 2009,21.3 %
+Pobreza,42.9,1,Apr 2009,42.9 %
+Falta de empleo,37.7,2,Apr 2009,37.7 %
+Otro,22.6,3,Apr 2009,22.6 %
+Bajos sueldos,20.7,4,Apr 2009,20.7 %
+Corrupción,17.4,5,Apr 2009,17.4 %
+Pobreza,41.7,1,May 2009,41.7 %
+Falta de empleo,39.1,2,May 2009,39.1 %
+Otro,29.1,3,May 2009,29.1 %
+Bajos sueldos,20.9,4,May 2009,20.9 %
+Corrupción,18,5,May 2009,18 %
+Pobreza,41.1,1,Jun 2009,41.1 %
+Falta de empleo,32,2,Jun 2009,32 %
+Otro,28.9,3,Jun 2009,28.9 %
+Bajos sueldos,19.1,4,Jun 2009,19.1 %
+Corrupción,18.2,5,Jun 2009,18.2 %
+Pobreza,42.2,1,Jul 2009,42.2 %
+Falta de empleo,32.8,2,Jul 2009,32.8 %
+Otro,28.5,3,Jul 2009,28.5 %
+Corrupción,22.3,4,Jul 2009,22.3 %
+Bajos sueldos,16.4,5,Jul 2009,16.4 %
+Pobreza,45.9,1,Aug 2009,45.9 %
+Falta de empleo,34,2,Aug 2009,34 %
+Otro,26.5,3,Aug 2009,26.5 %
+Corrupción,25.9,4,Aug 2009,25.9 %
+Bajos sueldos,16.7,5,Aug 2009,16.7 %
+Pobreza,42.6,1,Sep 2009,42.6 %
+Falta de empleo,30.9,2,Sep 2009,30.9 %
+Otro,27.3,3,Sep 2009,27.3 %
+Corrupción,20.8,4,Sep 2009,20.8 %
+Bajos sueldos,15.6,5,Sep 2009,15.6 %
+Pobreza,39.3,1,Oct 2009,39.3 %
+Otro,31.4,2,Oct 2009,31.4 %
+Falta de empleo,31.2,3,Oct 2009,31.2 %
+Corrupción,22.6,4,Oct 2009,22.6 %
+Bajos sueldos,13.1,5,Oct 2009,13.1 %
+Pobreza,34.8,1,Nov 2009,34.8 %
+Falta de empleo,31.4,2,Nov 2009,31.4 %
+Otro,28.3,3,Nov 2009,28.3 %
+Corrupción,21.7,4,Nov 2009,21.7 %
+Mala calidad de la educación estatal,14.8,5,Nov 2009,14.8 %
+Pobreza,43.8,1,Dec 2009,43.8 %
+Falta de empleo,30.6,2,Dec 2009,30.6 %
+Otro,26.1,3,Dec 2009,26.1 %
+Corrupción,22.9,4,Dec 2009,22.9 %
+Falta de seguridad ciudadana,14.6,5,Dec 2009,14.6 %
+Pobreza,39.3,1,Jan 2010,39.3 %
+Otro,31,2,Jan 2010,31 %
+Falta de empleo,30.4,3,Jan 2010,30.4 %
+Corrupción,20.2,4,Jan 2010,20.2 %
+Bajos sueldos,13.5,5,Jan 2010,13.5 %
+Pobreza,42.9,1,Feb 2010,42.9 %
+Falta de empleo,30.3,2,Feb 2010,30.3 %
+Otro,28.8,3,Feb 2010,28.8 %
+Corrupción,24.4,4,Feb 2010,24.4 %
+Mala calidad de la educación estatal,14.6,5,Feb 2010,14.6 %
+Pobreza,36.6,1,Mar 2010,36.6 %
+Falta de empleo,31.4,2,Mar 2010,31.4 %
+Otro,30.2,3,Mar 2010,30.2 %
+Corrupción,21.1,4,Mar 2010,21.1 %
+Mala calidad de la educación estatal,16.4,5,Mar 2010,16.4 %
+Pobreza,36.8,1,Apr 2010,36.8 %
+Otro,30.3,2,Apr 2010,30.3 %
+Falta de empleo,26.7,3,Apr 2010,26.7 %
+Corrupción,21,4,Apr 2010,21 %
+Mala calidad de la educación estatal,15.8,5,Apr 2010,15.8 %
+Pobreza,39,1,May 2010,39 %
+Falta de empleo,31.8,2,May 2010,31.8 %
+Otro,29.2,3,May 2010,29.2 %
+Corrupción,24.2,4,May 2010,24.2 %
+Mala calidad de la educación estatal,13.9,5,May 2010,13.9 %
+Pobreza,38.6,1,Jun 2010,38.6 %
+Falta de empleo,31.7,2,Jun 2010,31.7 %
+Otro,30.4,3,Jun 2010,30.4 %
+Corrupción,24.7,4,Jun 2010,24.7 %
+Falta de seguridad ciudadana,15.5,5,Jun 2010,15.5 %
+Pobreza,40.2,1,Jul 2010,40.2 %
+Otro,30.1,2,Jul 2010,30.1 %
+Falta de empleo,27.8,3,Jul 2010,27.8 %
+Corrupción,25.6,4,Jul 2010,25.6 %
+Falta de seguridad ciudadana,18.1,5,Jul 2010,18.1 %
+Pobreza,36.4,1,Aug 2010,36.4 %
+Otro,33,2,Aug 2010,33 %
+Corrupción,26.7,3,Aug 2010,26.7 %
+Falta de empleo,24.6,4,Aug 2010,24.6 %
+Falta de seguridad ciudadana,18.4,5,Aug 2010,18.4 %
+Pobreza,36.8,1,Sep 2010,36.8 %
+Otro,30.6,2,Sep 2010,30.6 %
+Falta de empleo,27.5,3,Sep 2010,27.5 %
+Corrupción,22.3,4,Sep 2010,22.3 %
+Falta de seguridad ciudadana,18.3,5,Sep 2010,18.3 %
+Pobreza,35.2,1,Oct 2010,35.2 %
+Otro,29.6,2,Oct 2010,29.6 %
+Falta de empleo,27.7,3,Oct 2010,27.7 %
+Corrupción,26.4,4,Oct 2010,26.4 %
+Falta de seguridad ciudadana,17,5,Oct 2010,17 %
+Pobreza,34.7,1,Nov 2010,34.7 %
+Otro,29,2,Nov 2010,29 %
+Falta de empleo,27.6,3,Nov 2010,27.6 %
+Corrupción,24.1,4,Nov 2010,24.1 %
+Falta de seguridad ciudadana,18.1,5,Nov 2010,18.1 %
+Pobreza,41.4,1,Dec 2010,41.4 %
+Falta de empleo,28.7,2,Dec 2010,28.7 %
+Otro,28.7,3,Dec 2010,28.7 %
+Corrupción,25.1,4,Dec 2010,25.1 %
+Falta de seguridad ciudadana,20.1,5,Dec 2010,20.1 %
+Pobreza,32.7,1,Jan 2011,32.7 %
+Corrupción,29.6,2,Jan 2011,29.6 %
+Otro,29.1,3,Jan 2011,29.1 %
+Falta de empleo,29,4,Jan 2011,29 %
+Falta de seguridad ciudadana,19.5,5,Jan 2011,19.5 %
+Pobreza,37.4,1,Feb 2011,37.4 %
+Otro,28,2,Feb 2011,28 %
+Corrupción,27.9,3,Feb 2011,27.9 %
+Falta de empleo,27.9,4,Feb 2011,27.9 %
+Falta de seguridad ciudadana,23.8,5,Feb 2011,23.8 %
+Pobreza,42.3,1,Mar 2011,42.3 %
+Falta de empleo,28.4,2,Mar 2011,28.4 %
+Otro,25.7,3,Mar 2011,25.7 %
+Corrupción,23.8,4,Mar 2011,23.8 %
+Falta de seguridad ciudadana,23.3,5,Mar 2011,23.3 %
+Pobreza,38.7,1,Apr 2011,38.7 %
+Falta de empleo,31.1,2,Apr 2011,31.1 %
+Corrupción,27.6,3,Apr 2011,27.6 %
+Falta de seguridad ciudadana,25.4,4,Apr 2011,25.4 %
+Otro,23.3,5,Apr 2011,23.3 %
+Pobreza,37.7,1,May 2011,37.7 %
+Corrupción,26.5,2,May 2011,26.5 %
+Otro,25.5,3,May 2011,25.5 %
+Falta de empleo,23.5,4,May 2011,23.5 %
+Falta de seguridad ciudadana,22.1,5,May 2011,22.1 %
+Pobreza,40.5,1,Jun 2011,40.5 %
+Falta de empleo,28.7,2,Jun 2011,28.7 %
+Otro,28,3,Jun 2011,28 %
+Corrupción,23.9,4,Jun 2011,23.9 %
+Falta de seguridad ciudadana,23.3,5,Jun 2011,23.3 %
+Pobreza,39.9,1,Jul 2011,39.9 %
+Otro,28.7,2,Jul 2011,28.7 %
+Corrupción,25.3,3,Jul 2011,25.3 %
+Falta de empleo,24.6,4,Jul 2011,24.6 %
+Falta de seguridad ciudadana,24.3,5,Jul 2011,24.3 %
+Pobreza,42.9,1,Aug 2011,42.9 %
+Falta de seguridad ciudadana,29.2,2,Aug 2011,29.2 %
+Corrupción,27.5,3,Aug 2011,27.5 %
+Otro,26.4,4,Aug 2011,26.4 %
+Falta de empleo,22.3,5,Aug 2011,22.3 %
+Pobreza,36.9,1,Sep 2011,36.9 %
+Otro,32.3,2,Sep 2011,32.3 %
+Falta de seguridad ciudadana,27.9,3,Sep 2011,27.9 %
+Falta de empleo,24.7,4,Sep 2011,24.7 %
+Corrupción,22.8,5,Sep 2011,22.8 %
+Pobreza,35.1,1,Oct 2011,35.1 %
+Otro,33.3,2,Oct 2011,33.3 %
+Falta de seguridad ciudadana,26.6,3,Oct 2011,26.6 %
+Corrupción,24.7,4,Oct 2011,24.7 %
+Falta de empleo,24.1,5,Oct 2011,24.1 %
+Pobreza,36.8,1,Nov 2011,36.8 %
+Otro,29,2,Nov 2011,29 %
+Corrupción,27.2,3,Nov 2011,27.2 %
+Falta de empleo,25.7,4,Nov 2011,25.7 %
+Falta de seguridad ciudadana,18.7,5,Nov 2011,18.7 %
+Pobreza,35.1,1,Dec 2011,35.1 %
+Otro,28.5,2,Dec 2011,28.5 %
+Corrupción,26.2,3,Dec 2011,26.2 %
+Falta de seguridad ciudadana,23.1,4,Dec 2011,23.1 %
+Falta de empleo,21.5,5,Dec 2011,21.5 %
+Pobreza,38.8,1,Jan 2012,38.8 %
+Falta de empleo,27.6,2,Jan 2012,27.6 %
+Corrupción,24.2,3,Jan 2012,24.2 %
+Otro,23.2,4,Jan 2012,23.2 %
+Falta de seguridad ciudadana,22,5,Jan 2012,22 %
+Pobreza,31.9,1,Feb 2012,31.9 %
+Delincuencia,28.4,2,Feb 2012,28.4 %
+Corrupción,27.6,3,Feb 2012,27.6 %
+Falta de empleo,25.6,4,Feb 2012,25.6 %
+Otro,23.1,5,Feb 2012,23.1 %
+Pobreza,32.7,1,Mar 2012,32.7 %
+Delincuencia,27.1,2,Mar 2012,27.1 %
+Otro,26.9,3,Mar 2012,26.9 %
+Corrupción,25.1,4,Mar 2012,25.1 %
+Falta de empleo,24.8,5,Mar 2012,24.8 %
+Pobreza,41.7,1,Apr 2012,41.7 %
+Delincuencia,28,2,Apr 2012,28 %
+Otro,27.9,3,Apr 2012,27.9 %
+Corrupción,27.3,4,Apr 2012,27.3 %
+Falta de empleo,25.4,5,Apr 2012,25.4 %
+Pobreza,34.7,1,May 2012,34.7 %
+Delincuencia,30.2,2,May 2012,30.2 %
+Otro,29.6,3,May 2012,29.6 %
+Corrupción,27.2,4,May 2012,27.2 %
+Falta de empleo,23.7,5,May 2012,23.7 %
+Pobreza,37.4,1,Jun 2012,37.4 %
+Delincuencia,35,2,Jun 2012,35 %
+Otro,31.7,3,Jun 2012,31.7 %
+Falta de empleo,24.6,4,Jun 2012,24.6 %
+Corrupción,23.9,5,Jun 2012,23.9 %
+Pobreza,39,1,Jul 2012,39 %
+Delincuencia,30.4,2,Jul 2012,30.4 %
+Otro,27,3,Jul 2012,27 %
+Corrupción,26.6,4,Jul 2012,26.6 %
+Falta de empleo,24.4,5,Jul 2012,24.4 %
+Pobreza,37.2,1,Aug 2012,37.2 %
+Delincuencia,33.2,2,Aug 2012,33.2 %
+Corrupción,30.1,3,Aug 2012,30.1 %
+Otro,24.4,4,Aug 2012,24.4 %
+Falta de empleo,20.5,5,Aug 2012,20.5 %
+Pobreza,34.5,1,Sep 2012,34.5 %
+Delincuencia,31.8,2,Sep 2012,31.8 %
+Corrupción,29.2,3,Sep 2012,29.2 %
+Otro,26.7,4,Sep 2012,26.7 %
+Falta de empleo,21.6,5,Sep 2012,21.6 %
+Delincuencia,32.2,1,Oct 2012,32.2 %
+Pobreza,31.1,2,Oct 2012,31.1 %
+Corrupción,28,3,Oct 2012,28 %
+Otro,24.5,4,Oct 2012,24.5 %
+Falta de seguridad ciudadana,20.1,5,Oct 2012,20.1 %
+Delincuencia,34.1,1,Nov 2012,34.1 %
+Pobreza,33.5,2,Nov 2012,33.5 %
+Corrupción,26.6,3,Nov 2012,26.6 %
+Otro,25.4,4,Nov 2012,25.4 %
+Falta de empleo,19.6,5,Nov 2012,19.6 %
+Delincuencia,35.1,1,Dec 2012,35.1 %
+Pobreza,30.7,2,Dec 2012,30.7 %
+Corrupción,28.4,3,Dec 2012,28.4 %
+Otro,24.2,4,Dec 2012,24.2 %
+Falta de empleo,20.8,5,Dec 2012,20.8 %
+Pobreza,36.9,1,Jan 2013,36.9 %
+Delincuencia,34.6,2,Jan 2013,34.6 %
+Corrupción,31.2,3,Jan 2013,31.2 %
+Falta de empleo,23.9,4,Jan 2013,23.9 %
+Otro,19,5,Jan 2013,19 %
+Pobreza,36.7,1,Feb 2013,36.7 %
+Delincuencia,33,2,Feb 2013,33 %
+Corrupción,31.6,3,Feb 2013,31.6 %
+Falta de empleo,24.9,4,Feb 2013,24.9 %
+Otro,22.4,5,Feb 2013,22.4 %
+Delincuencia,39.9,1,Mar 2013,39.9 %
+Pobreza,35.6,2,Mar 2013,35.6 %
+Corrupción,30,3,Mar 2013,30 %
+Falta de empleo,22.5,4,Mar 2013,22.5 %
+Falta de seguridad ciudadana,20.1,5,Mar 2013,20.1 %
+Delincuencia,40.5,1,Apr 2013,40.5 %
+Pobreza,35.1,2,Apr 2013,35.1 %
+Corrupción,28,3,Apr 2013,28 %
+Falta de seguridad ciudadana,22.2,4,Apr 2013,22.2 %
+Otro,19.6,5,Apr 2013,19.6 %
+Delincuencia,41.3,1,May 2013,41.3 %
+Pobreza,36.9,2,May 2013,36.9 %
+Corrupción,28.2,3,May 2013,28.2 %
+Falta de empleo,23.6,4,May 2013,23.6 %
+Falta de seguridad ciudadana,19.6,5,May 2013,19.6 %
+Delincuencia,42.9,1,Jun 2013,42.9 %
+Pobreza,36.1,2,Jun 2013,36.1 %
+Corrupción,29.7,3,Jun 2013,29.7 %
+Falta de empleo,21.7,4,Jun 2013,21.7 %
+Falta de seguridad ciudadana,16.7,5,Jun 2013,16.7 %
+Delincuencia,40.3,1,Jul 2013,40.3 %
+Pobreza,35.5,2,Jul 2013,35.5 %
+Corrupción,27.7,3,Jul 2013,27.7 %
+Falta de empleo,21.5,4,Jul 2013,21.5 %
+Falta de seguridad ciudadana,17.9,5,Jul 2013,17.9 %
+Delincuencia,41.2,1,Aug 2013,41.2 %
+Corrupción,31.9,2,Aug 2013,31.9 %
+Pobreza,29.6,3,Aug 2013,29.6 %
+Falta de seguridad ciudadana,21.1,4,Aug 2013,21.1 %
+Falta de empleo,20.3,5,Aug 2013,20.3 %
+Delincuencia,40.4,1,Sep 2013,40.4 %
+Pobreza,29.4,2,Sep 2013,29.4 %
+Corrupción,27.4,3,Sep 2013,27.4 %
+Falta de seguridad ciudadana,20.4,4,Sep 2013,20.4 %
+Otro,20.1,5,Sep 2013,20.1 %
+Delincuencia,41.4,1,Oct 2013,41.4 %
+Pobreza,29.6,2,Oct 2013,29.6 %
+Corrupción,25.7,3,Oct 2013,25.7 %
+Falta de empleo,19.3,4,Oct 2013,19.3 %
+Otro,19,5,Oct 2013,19 %
+Delincuencia,41.2,1,Nov 2013,41.2 %
+Corrupción,32.1,2,Nov 2013,32.1 %
+Pobreza,29.9,3,Nov 2013,29.9 %
+Falta de seguridad ciudadana,22.3,4,Nov 2013,22.3 %
+Otro,18.9,5,Nov 2013,18.9 %
+Delincuencia,43.5,1,Dec 2013,43.5 %
+Pobreza,30.7,2,Dec 2013,30.7 %
+Corrupción,28.6,3,Dec 2013,28.6 %
+Falta de seguridad ciudadana,20.3,4,Dec 2013,20.3 %
+Falta de empleo,19.9,5,Dec 2013,19.9 %
+Delincuencia,43.3,1,Jan 2014,43.3 %
+Corrupción,34.3,2,Jan 2014,34.3 %
+Pobreza,26.4,3,Jan 2014,26.4 %
+Falta de seguridad ciudadana,26.2,4,Jan 2014,26.2 %
+Otro,19.6,5,Jan 2014,19.6 %
+Delincuencia,45.2,1,Feb 2014,45.2 %
+Corrupción,33.4,2,Feb 2014,33.4 %
+Pobreza,30.8,3,Feb 2014,30.8 %
+Falta de seguridad ciudadana,20.2,4,Feb 2014,20.2 %
+Otro,17.6,5,Feb 2014,17.6 %
+Delincuencia,41,1,Mar 2014,41 %
+Corrupción,36.8,2,Mar 2014,36.8 %
+Pobreza,26.3,3,Mar 2014,26.3 %
+Falta de seguridad ciudadana,20.1,4,Mar 2014,20.1 %
+Falta de empleo,15.1,5,Mar 2014,15.1 %
+Delincuencia,40.2,1,Apr 2014,40.2 %
+Corrupción,36.5,2,Apr 2014,36.5 %
+Falta de seguridad ciudadana,25.5,3,Apr 2014,25.5 %
+Pobreza,23.2,4,Apr 2014,23.2 %
+Otro,20.1,5,Apr 2014,20.1 %
+Delincuencia,41.1,1,May 2014,41.1 %
+Corrupción,35,2,May 2014,35 %
+Falta de seguridad ciudadana,26.1,3,May 2014,26.1 %
+Pobreza,23.1,4,May 2014,23.1 %
+Otro,19.1,5,May 2014,19.1 %
+Delincuencia,42.2,1,Jun 2014,42.2 %
+Corrupción,39.8,2,Jun 2014,39.8 %
+Pobreza,24.4,3,Jun 2014,24.4 %
+Falta de seguridad ciudadana,24,4,Jun 2014,24 %
+Falta de empleo,19.1,5,Jun 2014,19.1 %
+Delincuencia,41.5,1,Jul 2014,41.5 %
+Corrupción,39.5,2,Jul 2014,39.5 %
+Falta de seguridad ciudadana,23.9,3,Jul 2014,23.9 %
+Pobreza,22.4,4,Jul 2014,22.4 %
+Falta de empleo,18.3,5,Jul 2014,18.3 %
+Delincuencia,42,1,Aug 2014,42 %
+Corrupción,32.9,2,Aug 2014,32.9 %
+Falta de seguridad ciudadana,26.8,3,Aug 2014,26.8 %
+Pobreza,25.7,4,Aug 2014,25.7 %
+Falta de empleo,17,5,Aug 2014,17 %
+Delincuencia,44.3,1,Sep 2014,44.3 %
+Corrupción,35,2,Sep 2014,35 %
+Falta de seguridad ciudadana,26.4,3,Sep 2014,26.4 %
+Pobreza,25,4,Sep 2014,25 %
+Falta de empleo,16.4,5,Sep 2014,16.4 %
+Delincuencia,43.2,1,Oct 2014,43.2 %
+Corrupción,38.1,2,Oct 2014,38.1 %
+Pobreza,25.9,3,Oct 2014,25.9 %
+Falta de seguridad ciudadana,21,4,Oct 2014,21 %
+Falta de empleo,16.8,5,Oct 2014,16.8 %
+Delincuencia,47.5,1,Nov 2014,47.5 %
+Corrupción,38.3,2,Nov 2014,38.3 %
+Falta de seguridad ciudadana,26.4,3,Nov 2014,26.4 %
+Pobreza,22.2,4,Nov 2014,22.2 %
+Falta de empleo,15.4,5,Nov 2014,15.4 %
+Delincuencia,40,1,Dec 2014,40 %
+Corrupción,38.2,2,Dec 2014,38.2 %
+Pobreza,24,3,Dec 2014,24 %
+Falta de seguridad ciudadana,22.5,4,Dec 2014,22.5 %
+Falta de empleo,17.4,5,Dec 2014,17.4 %
+Corrupción,44.5,1,Jan 2015,44.5 %
+Delincuencia,43.6,2,Jan 2015,43.6 %
+Falta de seguridad ciudadana,24.7,3,Jan 2015,24.7 %
+Pobreza,22.6,4,Jan 2015,22.6 %
+Falta de empleo,17.4,5,Jan 2015,17.4 %
+Delincuencia,40.2,1,Feb 2015,40.2 %
+Corrupción,38.6,2,Feb 2015,38.6 %
+Pobreza,23.7,3,Feb 2015,23.7 %
+Falta de seguridad ciudadana,23,4,Feb 2015,23 %
+Falta de empleo,15.8,5,Feb 2015,15.8 %
+Delincuencia,45.4,1,Mar 2015,45.4 %
+Corrupción,40.3,2,Mar 2015,40.3 %
+Falta de seguridad ciudadana,24.7,3,Mar 2015,24.7 %
+Pobreza,21.7,4,Mar 2015,21.7 %
+Falta de empleo,17.1,5,Mar 2015,17.1 %
+Corrupción,42.5,1,Apr 2015,42.5 %
+Delincuencia,41.4,2,Apr 2015,41.4 %
+Pobreza,23.5,3,Apr 2015,23.5 %
+Falta de seguridad ciudadana,20.2,4,Apr 2015,20.2 %
+Otro,16.5,5,Apr 2015,16.5 %
+Delincuencia,44.8,1,May 2015,44.8 %
+Corrupción,41.7,2,May 2015,41.7 %
+Pobreza,21.1,3,May 2015,21.1 %
+Falta de seguridad ciudadana,20.5,4,May 2015,20.5 %
+Otro,17.7,5,May 2015,17.7 %
+Delincuencia,48.7,1,Jun 2015,48.7 %
+Corrupción,44.5,2,Jun 2015,44.5 %
+Falta de seguridad ciudadana,24.1,3,Jun 2015,24.1 %
+Pobreza,24,4,Jun 2015,24 %
+Falta de empleo,17.7,5,Jun 2015,17.7 %
+Delincuencia,47.5,1,Jul 2015,47.5 %
+Corrupción,37.4,2,Jul 2015,37.4 %
+Pobreza,24.5,3,Jul 2015,24.5 %
+Falta de seguridad ciudadana,24.4,4,Jul 2015,24.4 %
+Falta de empleo,15.1,5,Jul 2015,15.1 %
+Delincuencia,52.6,1,Aug 2015,52.6 %
+Corrupción,40.2,2,Aug 2015,40.2 %
+Falta de seguridad ciudadana,25.3,3,Aug 2015,25.3 %
+Pobreza,24.3,4,Aug 2015,24.3 %
+Otro,14.8,5,Aug 2015,14.8 %
+Delincuencia,51.3,1,Sep 2015,51.3 %
+Corrupción,37.8,2,Sep 2015,37.8 %
+Falta de seguridad ciudadana,29.5,3,Sep 2015,29.5 %
+Pobreza,20.9,4,Sep 2015,20.9 %
+Falta de empleo,20.7,5,Sep 2015,20.7 %
+Delincuencia,48,1,Oct 2015,48 %
+Corrupción,40.6,2,Oct 2015,40.6 %
+Falta de seguridad ciudadana,25.7,3,Oct 2015,25.7 %
+Pobreza,20.8,4,Oct 2015,20.8 %
+Falta de empleo,17.4,5,Oct 2015,17.4 %
+Delincuencia,43.9,1,Nov 2015,43.9 %
+Corrupción,40.4,2,Nov 2015,40.4 %
+Falta de seguridad ciudadana,26.1,3,Nov 2015,26.1 %
+Pobreza,22.6,4,Nov 2015,22.6 %
+Falta de empleo,17,5,Nov 2015,17 %
+Delincuencia,51.6,1,Dec 2015,51.6 %
+Corrupción,39,2,Dec 2015,39 %
+Falta de seguridad ciudadana,26.3,3,Dec 2015,26.3 %
+Pobreza,21.9,4,Dec 2015,21.9 %
+Falta de empleo,20.4,5,Dec 2015,20.4 %
+Delincuencia,44.8,1,Jan 2016,44.8 %
+Corrupción,42.9,2,Jan 2016,42.9 %
+Falta de seguridad ciudadana,28.4,3,Jan 2016,28.4 %
+Pobreza,26.4,4,Jan 2016,26.4 %
+Falta de empleo,20.1,5,Jan 2016,20.1 %
+Delincuencia,45.8,1,Feb 2016,45.8 %
+Corrupción,40.3,2,Feb 2016,40.3 %
+Pobreza,28.2,3,Feb 2016,28.2 %
+Falta de seguridad ciudadana,26.4,4,Feb 2016,26.4 %
+Falta de empleo,22.5,5,Feb 2016,22.5 %
+Corrupción,45.4,1,Mar 2016,45.4 %
+Delincuencia,45.3,2,Mar 2016,45.3 %
+Falta de seguridad ciudadana,26.8,3,Mar 2016,26.8 %
+Pobreza,25.6,4,Mar 2016,25.6 %
+Falta de empleo,19.5,5,Mar 2016,19.5 %
+Delincuencia,45.2,1,Apr 2016,45.2 %
+Corrupción,44,2,Apr 2016,44 %
+Falta de seguridad ciudadana,31.9,3,Apr 2016,31.9 %
+Pobreza,23,4,Apr 2016,23 %
+Falta de empleo,14.8,5,Apr 2016,14.8 %
+Delincuencia,51,1,May 2016,51 %
+Corrupción,39.2,2,May 2016,39.2 %
+Falta de seguridad ciudadana,25.4,3,May 2016,25.4 %
+Pobreza,21.1,4,May 2016,21.1 %
+Falta de empleo,16.6,5,May 2016,16.6 %
+Delincuencia,48.5,1,Jun 2016,48.5 %
+Corrupción,40.9,2,Jun 2016,40.9 %
+Falta de seguridad ciudadana,26.7,3,Jun 2016,26.7 %
+Pobreza,22.2,4,Jun 2016,22.2 %
+Falta de empleo,16.5,5,Jun 2016,16.5 %
+Delincuencia,50.6,1,Jul 2016,50.6 %
+Corrupción,42,2,Jul 2016,42 %
+Falta de seguridad ciudadana,26.4,3,Jul 2016,26.4 %
+Pobreza,24.5,4,Jul 2016,24.5 %
+Falta de empleo,16.2,5,Jul 2016,16.2 %
+Delincuencia,55.2,1,Aug 2016,55.2 %
+Corrupción,36.3,2,Aug 2016,36.3 %
+Falta de seguridad ciudadana,24.6,3,Aug 2016,24.6 %
+Pobreza,21.1,4,Aug 2016,21.1 %
+Falta de empleo,15.9,5,Aug 2016,15.9 %
+Delincuencia,49.1,1,Sep 2016,49.1 %
+Corrupción,37.8,2,Sep 2016,37.8 %
+Pobreza,23.6,3,Sep 2016,23.6 %
+Falta de seguridad ciudadana,20.5,4,Sep 2016,20.5 %
+Otro,15.6,5,Sep 2016,15.6 %
+Delincuencia,45.5,1,Oct 2016,45.5 %
+Corrupción,38.7,2,Oct 2016,38.7 %
+Pobreza,19.8,3,Oct 2016,19.8 %
+Falta de seguridad ciudadana,19.3,4,Oct 2016,19.3 %
+Otro,17.4,5,Oct 2016,17.4 %
+Delincuencia,48.1,1,Nov 2016,48.1 %
+Corrupción,43.7,2,Nov 2016,43.7 %
+Falta de seguridad ciudadana,20.4,3,Nov 2016,20.4 %
+Pobreza,19.9,4,Nov 2016,19.9 %
+Otro,15.1,5,Nov 2016,15.1 %
+Delincuencia,51.7,1,Dec 2016,51.7 %
+Corrupción,41.4,2,Dec 2016,41.4 %
+Falta de seguridad ciudadana,19.6,3,Dec 2016,19.6 %
+Pobreza,18.9,4,Dec 2016,18.9 %
+Otro,16.4,5,Dec 2016,16.4 %
+Corrupción,47,1,Jan 2017,47 %
+Delincuencia,46,2,Jan 2017,46 %
+Falta de seguridad ciudadana,19.6,3,Jan 2017,19.6 %
+Pobreza,19.1,4,Jan 2017,19.1 %
+Falta de empleo,14.5,5,Jan 2017,14.5 %
+Corrupción,53.2,1,Feb 2017,53.2 %
+Delincuencia,45.5,2,Feb 2017,45.5 %
+Pobreza,19.4,3,Feb 2017,19.4 %
+Falta de seguridad ciudadana,19.1,4,Feb 2017,19.1 %
+Otro,17.1,5,Feb 2017,17.1 %
+Corrupción,51.8,1,Mar 2017,51.8 %
+Delincuencia,43.1,2,Mar 2017,43.1 %
+Pobreza,19.2,3,Mar 2017,19.2 %
+Falta de seguridad ciudadana,17.5,4,Mar 2017,17.5 %
+Otro,17.4,5,Mar 2017,17.4 %
+Corrupción,49.6,1,Apr 2017,49.6 %
+Delincuencia,42.6,2,Apr 2017,42.6 %
+Pobreza,22.3,3,Apr 2017,22.3 %
+Falta de seguridad ciudadana,18.4,4,Apr 2017,18.4 %
+Otro,18.2,5,Apr 2017,18.2 %
+Corrupción,47.6,1,May 2017,47.6 %
+Delincuencia,46.5,2,May 2017,46.5 %
+Pobreza,20.6,3,May 2017,20.6 %
+Falta de seguridad ciudadana,17.4,4,May 2017,17.4 %
+Otro,16.3,5,May 2017,16.3 %
+Corrupción,48.1,1,Jun 2017,48.1 %
+Delincuencia,45,2,Jun 2017,45 %
+Pobreza,21.4,3,Jun 2017,21.4 %
+Falta de seguridad ciudadana,19.4,4,Jun 2017,19.4 %
+Falta de empleo,17.2,5,Jun 2017,17.2 %
+Corrupción,48.2,1,Jul 2017,48.2 %
+Delincuencia,45,2,Jul 2017,45 %
+Otro,18.2,3,Jul 2017,18.2 %
+Pobreza,17.8,4,Jul 2017,17.8 %
+Falta de seguridad ciudadana,16.4,5,Jul 2017,16.4 %
+Corrupción,44.4,1,Aug 2017,44.4 %
+Delincuencia,40.9,2,Aug 2017,40.9 %
+Pobreza,20.6,3,Aug 2017,20.6 %
+Falta de seguridad ciudadana,16.6,4,Aug 2017,16.6 %
+Otro,14.7,5,Aug 2017,14.7 %
+Corrupción,44.4,1,Sep 2017,44.4 %
+Delincuencia,41.4,2,Sep 2017,41.4 %
+Pobreza,17.7,3,Sep 2017,17.7 %
+Falta de seguridad ciudadana,16.5,4,Sep 2017,16.5 %
+Mala calidad de la educación estatal,15,5,Sep 2017,15 %
+Corrupción,48.6,1,Oct 2017,48.6 %
+Delincuencia,45.4,2,Oct 2017,45.4 %
+Pobreza,21.9,3,Oct 2017,21.9 %
+Falta de seguridad ciudadana,16.3,4,Oct 2017,16.3 %
+Falta de empleo,14.2,5,Oct 2017,14.2 %
+Corrupción,48.7,1,Nov 2017,48.7 %
+Delincuencia,47.6,2,Nov 2017,47.6 %
+Pobreza,19.5,3,Nov 2017,19.5 %
+Otro,17,4,Nov 2017,17 %
+Falta de seguridad ciudadana,15.6,5,Nov 2017,15.6 %
+Corrupción,53.1,1,Dec 2017,53.1 %
+Delincuencia,44,2,Dec 2017,44 %
+Pobreza,19.8,3,Dec 2017,19.8 %
+Otro,17.7,4,Dec 2017,17.7 %
+Falta de seguridad ciudadana,15,5,Dec 2017,15 %
+Corrupción,51.8,1,Jan 2018,51.8 %
+Delincuencia,42.1,2,Jan 2018,42.1 %
+Pobreza,22.6,3,Jan 2018,22.6 %
+Otro,15.6,4,Jan 2018,15.6 %
+Falta de seguridad ciudadana,13.1,5,Jan 2018,13.1 %
+Corrupción,54.1,1,Feb 2018,54.1 %
+Delincuencia,43.3,2,Feb 2018,43.3 %
+Pobreza,20.8,3,Feb 2018,20.8 %
+Falta de seguridad ciudadana,20,4,Feb 2018,20 %
+Otro,17.2,5,Feb 2018,17.2 %
+Corrupción,54.9,1,Mar 2018,54.9 %
+Delincuencia,41.2,2,Mar 2018,41.2 %
+Pobreza,19.2,3,Mar 2018,19.2 %
+Otro,16.6,4,Mar 2018,16.6 %
+Falta de empleo,14.7,5,Mar 2018,14.7 %
+Corrupción,57.4,1,Apr 2018,57.4 %
+Delincuencia,40.2,2,Apr 2018,40.2 %
+Falta de seguridad ciudadana,20,3,Apr 2018,20 %
+Pobreza,19.8,4,Apr 2018,19.8 %
+Otro,18.2,5,Apr 2018,18.2 %
+Corrupción,55.5,1,May 2018,55.5 %
+Delincuencia,43.3,2,May 2018,43.3 %
+Pobreza,25.5,3,May 2018,25.5 %
+Otro,18.5,4,May 2018,18.5 %
+Falta de seguridad ciudadana,16.7,5,May 2018,16.7 %
+Corrupción,57.2,1,Jun 2018,57.2 %
+Delincuencia,37.7,2,Jun 2018,37.7 %
+Pobreza,22.8,3,Jun 2018,22.8 %
+Otro,19.3,4,Jun 2018,19.3 %
+Falta de seguridad ciudadana,17.7,5,Jun 2018,17.7 %
+Corrupción,58.3,1,Jul 2018,58.3 %
+Delincuencia,45.4,2,Jul 2018,45.4 %
+Pobreza,24,3,Jul 2018,24 %
+Otro,19.4,4,Jul 2018,19.4 %
+Falta de seguridad ciudadana,14.5,5,Jul 2018,14.5 %
+Corrupción,68.4,1,Aug 2018,68.4 %
+Delincuencia,39.3,2,Aug 2018,39.3 %
+Pobreza,18.3,3,Aug 2018,18.3 %
+Otro,18.3,4,Aug 2018,18.3 %
+Falta de seguridad ciudadana,14.5,5,Aug 2018,14.5 %
+Corrupción,64.1,1,Sep 2018,64.1 %
+Delincuencia,39.1,2,Sep 2018,39.1 %
+Pobreza,19.3,3,Sep 2018,19.3 %
+Otro,16.1,4,Sep 2018,16.1 %
+Falta de seguridad ciudadana,14.3,5,Sep 2018,14.3 %
+Corrupción,63.2,1,Oct 2018,63.2 %
+Delincuencia,39,2,Oct 2018,39 %
+Pobreza,20.6,3,Oct 2018,20.6 %
+Falta de seguridad ciudadana,19.6,4,Oct 2018,19.6 %
+Otro,17.8,5,Oct 2018,17.8 %
+Corrupción,68.4,1,Nov 2018,68.4 %
+Delincuencia,31.8,2,Nov 2018,31.8 %
+Pobreza,20.3,3,Nov 2018,20.3 %
+Falta de seguridad ciudadana,19,4,Nov 2018,19 %
+Otro,16.5,5,Nov 2018,16.5 %
+Corrupción,64.7,1,Dec 2018,64.7 %
+Delincuencia,43.2,2,Dec 2018,43.2 %
+Pobreza,18.5,3,Dec 2018,18.5 %
+Otro,15,4,Dec 2018,15 %
+Falta de seguridad ciudadana,13.9,5,Dec 2018,13.9 %

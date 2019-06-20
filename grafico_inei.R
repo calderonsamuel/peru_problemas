@@ -2,17 +2,16 @@ library(tidyverse)
 library(gganimate)
 library(paletteer)
 
-data <- read.csv("datalista.csv", stringsAsFactors = FALSE) %>%
-      mutate(str_perc = paste(str_perc, "%")) %>%
-      # filter(year < 2008) %>%
-      select(-(year:month))
+# no_ponderada <- read.csv("data_simple.csv", stringsAsFactors = FALSE)
+ponderada <- read.csv("data_ponderada.csv", stringsAsFactors = FALSE)
 
+top5 <- function(df){
 
 # se crea el gráfico de barras
 ## las posiciones de las barras representan el ranking, su tamaño el porcentaje y su color el problema
-p <- data %>%
+p <- df %>%
       ggplot(aes(
-            x = r,
+            x = rank,
             y = perc,
             color = factor(problema),
             fill = factor(problema)
@@ -72,5 +71,9 @@ anim <-
             width = 750
       )
 anim
-anim_save("gif2.gif")
+}
+
+animacion <- top5(ponderada)
+animacion
+anim_save("top5ponderado.gif")
 
