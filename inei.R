@@ -89,8 +89,10 @@ sumaria_ponderada <- function(df) {
             arrange(month, desc(perc)) %>%
             ungroup() %>%
             group_by(year, month) %>%
-            mutate(perc = round(perc * 100, 1), rank = row_number(desc(perc))) %>%
-            filter(rank <= 5)
+            mutate(perc = round(perc * 100, 1), 
+                   rank = row_number(desc(perc))
+                   ) #%>%
+            #filter(rank <= 5)
 }
 
 #deja listo para el gráfico
@@ -133,23 +135,67 @@ limpiar <- function(list) {
                    data
 }
 
-datos_simple <- list()
-for (i in seq_along(datos)) {
-      datos_simple[[i]] <- sumaria_simple(datos[[i]])
+
+## Sin ponderar
+
+# datos_simple <- list()
+# for (i in seq_along(datos)) {
+#       datos_simple[[i]] <- sumaria_simple(datos[[i]])
+# }
+
+# data_simple <- limpiar(datos_simple)
+# write_csv(data_simple, "data_simple.csv")
+# rm(i, data_simple, datos_simple)
+
+
+## Ponderando
+
+# datos_ponderada <- list()
+# for (i in seq_along(datos)) {
+#       datos_ponderada[[i]] <- sumaria_ponderada(datos[[i]])
+# }
+# 
+# 
+# data_ponderada <- limpiar(datos_ponderada)
+# write_csv(data_ponderada, "data_ponderada.csv")
+# 
+# rm(i, data_ponderada, datos, datos_ponderada)
+
+
+
+## Ensayo
+
+# data_ponderada %>% 
+#    mutate(fecha_num = as.numeric(fecha)) %>%
+#    filter(fecha_num >= 1, fecha_num <= 6) %>%
+#    mutate(fecha = paste0(.$fecha[1], " - ", .$fecha[length(.$fecha)])) %>%
+#    group_by(problema, fecha) %>%
+#    summarise(perc = mean(perc, na.rm = TRUE)) %>%
+#    ungroup() %>%
+#    arrange(desc(perc)) %>%
+#    mutate(rank = row_number(desc(perc)),
+#           str_perc = paste(as.character(round(perc,digits = 1)), "%")) %>%
+#    filter(rank <= 5)
+
+
+data_final <- list()
+for (i in 1:(length(levels(data_ponderada$fecha))-5)) {
+   data_final[[i]] <- data_ponderada %>% 
+      mutate(fecha_num = as.numeric(fecha)) %>%
+      filter(fecha_num >= i, fecha_num <= (i+5)) %>%
+      mutate(fecha = paste0(.$fecha[1], " - ", .$fecha[length(.$fecha)])) %>%
+      group_by(problema, fecha) %>%
+      summarise(perc = mean(perc, na.rm = TRUE)) %>%
+      ungroup() %>%
+      arrange(desc(perc)) %>%
+      mutate(rank = row_number(desc(perc)),
+             str_perc = paste(as.character(round(perc,digits = 1)), "%")) %>%
+      filter(rank <= 5)
 }
 
-data_simple <- limpiar(datos_simple)
-write_csv(data_simple, "data_simple.csv")
-rm(i, data_simple, datos_simple)
+data_final <- data_final %>% 
+   tibble() %>% 
+   unnest() %>%
+   mutate(fecha = as_factor(fecha))
 
-
-datos_ponderada <- list()
-for (i in seq_along(datos)) {
-      datos_ponderada[[i]] <- sumaria_ponderada(datos[[i]])
-}
-
-
-data_ponderada <- limpiar(datos_ponderada)
-write_csv(data_ponderada, "data_ponderada.csv")
-
-rm(i, data_ponderada, datos, datos_ponderada)    
+write_csv(data_final, "data_final.csv")

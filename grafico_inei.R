@@ -3,7 +3,8 @@ library(gganimate)
 library(paletteer)
 
 # no_ponderada <- read.csv("data_simple.csv", stringsAsFactors = FALSE)
-ponderada <- read.csv("data_ponderada.csv", stringsAsFactors = FALSE)
+#ponderada <- read.csv("data_ponderada.csv", stringsAsFactors = FALSE)
+final <- read.csv("data_final.csv", stringsAsFactors = FALSE)
 
 top5 <- function(df){
 
@@ -73,7 +74,9 @@ anim <-
 anim
 }
 
-animacion <- top5(ponderada)
-animacion
-anim_save("top5ponderado.gif")
+# animacion <- top5(ponderada)
 
+animacion <- top5(final)
+animacion
+# anim_save("top5ponderado.gif")
+anim_save("top5final.gif")
