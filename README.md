@@ -1,5 +1,8 @@
 
 # peru_problemas
+
+[![Project Status](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
+
 Gráfico de principales problemas del Perú en el tiempo
 
 ![](https://github.com/calderonsamuel/peru_problemas/blob/master/top5final.gif)
